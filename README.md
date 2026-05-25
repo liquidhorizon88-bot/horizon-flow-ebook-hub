@@ -20,6 +20,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [The 15-Minute Missed Lead Recovery Checklist](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/15-minute-missed-lead-recovery-checklist.html)
 - [10 Small-Business AI Prompt Templates You Can Safely Test This Week](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/small-business-ai-prompt-templates.html)
 - [9 Lead Follow-Up Scripts for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/local-service-lead-follow-up-scripts.html)
+- [Quote Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/quote-follow-up-templates-local-service.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)

@@ -22,6 +22,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [10 Small-Business AI Prompt Templates You Can Safely Test This Week](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/small-business-ai-prompt-templates.html)
 - [9 Lead Follow-Up Scripts for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/local-service-lead-follow-up-scripts.html)
 - [Quote Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/quote-follow-up-templates-local-service.html)
+- [Lead Qualification Questions for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/lead-qualification-questions-local-service.html)
 - [Local Lead Response Automation Checklist](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/local-lead-response-automation-checklist.html)
 - [AI SOP Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-sop-templates-small-business.html)
 - [AI Client Intake Form Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-client-intake-form-templates-small-business.html)

@@ -10,6 +10,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Free Missed Lead Recovery Checklist](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/missed-lead-checklist.html)
 - [Free 30-Day AI Rollout Tracker](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/30-day-ai-rollout-tracker.html)
 - [Free Speed-to-Lead Swipe File](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/speed-to-lead-swipe-file.html)
+- [Free AI Lead Response Quickstart for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-lead-response-quickstart.html)
 - [Optional Horizon Flow Resource Updates](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/subscribe.html)
 - [25 AI Automations Small Businesses Can Use Without Hiring a Developer](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/25-ai-automations-small-business.html)
 - [The 15-Minute Missed Lead Recovery Checklist](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/15-minute-missed-lead-recovery-checklist.html)

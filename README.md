@@ -11,6 +11,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Free 30-Day AI Rollout Tracker](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/30-day-ai-rollout-tracker.html)
 - [Free Small Business AI Prompt Starter Pack](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/small-business-ai-prompt-starter-pack.html)
 - [Free AI Prompt Quality Scorecard](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-prompt-quality-scorecard.html)
+- [Free AI Prompt Governance Checklist](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-prompt-governance-checklist.html)
 - [Free Speed-to-Lead Swipe File](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/speed-to-lead-swipe-file.html)
 - [Free AI Lead Response Quickstart for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-lead-response-quickstart.html)
 - [Free Stale Lead Reactivation Mini-Pack](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/stale-lead-reactivation-mini-pack.html)

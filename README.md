@@ -23,6 +23,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [9 Lead Follow-Up Scripts for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/local-service-lead-follow-up-scripts.html)
 - [Quote Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/quote-follow-up-templates-local-service.html)
 - [Lead Qualification Questions for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/lead-qualification-questions-local-service.html)
+- [Job Costing Intake Questions for Local Service Leads](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/job-costing-intake-questions-local-service.html)
 - [No-Show Appointment Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/no-show-appointment-follow-up-templates-local-service.html)
 - [Voicemail Follow-Up Scripts for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/voicemail-follow-up-scripts-local-service.html)
 - [Invoice Follow-Up Email Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/invoice-follow-up-email-templates-small-business.html)

@@ -19,6 +19,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)
 - [Which Horizon Flow Ebook Should I Use?](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/which-horizon-flow-ebook.html)
+- [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
 ## Products
 

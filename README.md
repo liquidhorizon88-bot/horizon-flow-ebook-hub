@@ -59,6 +59,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Customer Onboarding Checklist for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-onboarding-checklist-small-business.html)
 - [Late Payment Reminder Text Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/late-payment-reminder-text-templates-small-business.html)
 - [Sales Call Summary AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/sales-call-summary-ai-prompt-small-business.html)
+- [Project Status Update AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/project-status-update-ai-prompt-small-business.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)

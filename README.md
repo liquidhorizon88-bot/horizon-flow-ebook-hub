@@ -57,6 +57,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Warranty Follow-Up Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/warranty-follow-up-text-templates-local-service.html)
 - [Tenant Maintenance Scheduling Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/tenant-maintenance-scheduling-text-templates-property-managers.html)
 - [Customer Onboarding Checklist for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-onboarding-checklist-small-business.html)
+- [Late Payment Reminder Text Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/late-payment-reminder-text-templates-small-business.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)

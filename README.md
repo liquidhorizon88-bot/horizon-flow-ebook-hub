@@ -69,6 +69,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Change Order Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/change-order-text-templates-local-service.html)
 - [Maintenance Plan Renewal Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/maintenance-plan-renewal-text-templates-local-service.html)
 - [Rent-Ready Turnover Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/rent-ready-turnover-text-templates-property-managers.html)
+- [Lease Renewal Notice Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/lease-renewal-notice-text-templates-property-managers.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)

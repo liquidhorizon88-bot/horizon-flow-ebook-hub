@@ -49,6 +49,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Urgent Service Request Triage Questions for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/urgent-service-request-triage-questions-local-service.html)
 - [Competitor Website Review AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/competitor-website-review-ai-prompt-small-business.html)
 - [Cash Flow Forecast AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/cash-flow-forecast-ai-prompt-small-business.html)
+- [Photo Request Text Templates for Local Service Estimates](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/photo-request-text-templates-local-service.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)

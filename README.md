@@ -77,6 +77,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Property Inspection Notice Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/property-inspection-notice-text-templates-property-managers.html)
 - [New Tenant Welcome Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/new-tenant-welcome-text-templates-property-managers.html)
 - [Rental Showing Confirmation Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/rental-showing-confirmation-text-templates-property-managers.html)
+- [Owner Update Email Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/owner-update-email-templates-property-managers.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)

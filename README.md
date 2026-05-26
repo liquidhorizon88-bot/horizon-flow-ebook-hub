@@ -71,6 +71,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Rent-Ready Turnover Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/rent-ready-turnover-text-templates-property-managers.html)
 - [Lease Renewal Notice Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/lease-renewal-notice-text-templates-property-managers.html)
 - [Move-Out Instruction Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/move-out-instruction-text-templates-property-managers.html)
+- [Vendor Delay Status Update Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/vendor-delay-status-update-text-templates-property-managers.html)
 - [Owner Approval Request Text Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/owner-approval-request-text-templates-property-managers.html)
 - [Small Business AI and Lead Follow-Up Q&A Resource Bank](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/small-business-ai-lead-followup-answers.html)
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)

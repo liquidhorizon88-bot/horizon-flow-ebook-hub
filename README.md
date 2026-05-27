@@ -66,6 +66,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Hiring Interview Question AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/hiring-interview-question-ai-prompt-small-business.html)
 - [Cancellation and Reschedule Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/cancellation-reschedule-text-templates-local-service.html)
 - [Employee Training Quiz AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/employee-training-quiz-ai-prompt-small-business.html)
+- [Employee Onboarding Checklist AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/employee-onboarding-checklist-ai-prompt-small-business.html)
 - [Price Objection Response Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/price-objection-response-text-templates-local-service.html)
 - [Quote Scope Comparison Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/quote-scope-comparison-checklist-local-service.html)
 - [Change Order Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/change-order-text-templates-local-service.html)

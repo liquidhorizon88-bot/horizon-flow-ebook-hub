@@ -43,6 +43,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [New Customer Welcome Email Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/new-customer-welcome-email-templates-small-business.html)
 - [AI Meeting Notes Template for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-meeting-notes-template-small-business.html)
 - [Missed Web Form Response Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/missed-web-form-response-templates-local-service.html)
+- [DM Inquiry Response Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/dm-inquiry-response-templates-local-service.html)
 - [Weekly Business Review AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/weekly-business-review-ai-prompt-small-business.html)
 - [Job Completion Follow-Up Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/job-completion-follow-up-text-templates-local-service.html)
 - [Estimate Request Reply Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/estimate-request-reply-templates-local-service.html)

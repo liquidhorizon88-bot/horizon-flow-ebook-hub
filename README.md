@@ -106,3 +106,5 @@ Every public resource should be useful without requiring a purchase. Product lin
 ## Verification
 
 Latest marketing surface checks validate live URLs, sitemap entries, UTM links, and HTTP status codes. See the marketing-agent reports under `/home/hermes/digital-products/marketing-agent/reports/` on the production machine.
+
+- [AI Search Local Citation Consistency Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-local-citation-consistency-checklist-small-business.html) — copy/paste citation cleanup worksheet for AI-search-safe local SEO facts.

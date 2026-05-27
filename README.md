@@ -34,6 +34,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Prompt Card Template for Small Business AI](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/prompt-card-template-small-business-ai.html)
 - [AI Review Response Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-review-response-templates-small-business.html)
 - [Review Request Text Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/review-request-text-templates-small-business.html)
+- [Testimonial Request Email Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/testimonial-request-email-templates-small-business.html)
 - [Lead Source Tracking Spreadsheet for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/lead-source-tracking-spreadsheet-local-service.html)
 - [Local Service Lead Response Resource Library](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/local-service-lead-response-resource-library.html)
 - [Speed-to-Lead Response Time Benchmark for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/speed-to-lead-response-time-benchmark-local-service.html)

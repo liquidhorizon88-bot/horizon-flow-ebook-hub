@@ -90,12 +90,14 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)
 - [Which Horizon Flow Ebook Should I Use?](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/which-horizon-flow-ebook.html)
 - [AI Search FAQ Page Template for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-faq-page-template-small-business.html)
+- [AI Search Homepage Checklist for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-homepage-checklist-small-business.html)
 - [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
 ## Products
 
 - [The Small Business AI Profit Kit](https://horizonflow.gumroad.com/l/small-business-ai-profit-kit?utm_source=github_repo&utm_medium=free&utm_campaign=ebook_marketing&utm_content=readme-product-link)
 - [Local Lead Rescue System](https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_repo&utm_medium=free&utm_campaign=ebook_marketing&utm_content=readme-product-link)
+- [SEO After AI](https://horizonflow.gumroad.com/l/seo-after-ai?utm_source=github_repo&utm_medium=free&utm_campaign=seo_after_ai_launch&utm_content=readme-product-link)
 
 ## Editorial policy
 

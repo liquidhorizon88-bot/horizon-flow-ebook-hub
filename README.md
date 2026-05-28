@@ -68,6 +68,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Late Payment Reminder Text Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/late-payment-reminder-text-templates-small-business.html)
 - [Sales Call Summary AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/sales-call-summary-ai-prompt-small-business.html)
 - [Project Status Update AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/project-status-update-ai-prompt-small-business.html)
+- [AI Inbox Triage Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-inbox-triage-prompt-small-business.html) — copy/paste inbox triage prompt, routing labels, safe draft replies, and human-review stop rules.
 - [Deposit and Payment-Link Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/deposit-payment-link-text-templates-local-service.html)
 - [Hiring Interview Question AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/hiring-interview-question-ai-prompt-small-business.html)
 - [Cancellation and Reschedule Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/cancellation-reschedule-text-templates-local-service.html)

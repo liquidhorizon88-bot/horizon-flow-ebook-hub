@@ -115,6 +115,8 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 - [Free Ebook Marketing Plan for Gumroad Creators](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/free-ebook-marketing-plan-gumroad-creators.html) — research-backed no-ad ebook marketing plan for Gumroad-style creators.
 
+- [Free Ebook Sample Library for Small Business AI and Lead Follow-Up](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/free-ebook-sample-library.html) — chooser page for current free samples and paid playbook fit.
+
 ## Products
 
 - [The Small Business AI Profit Kit](https://horizonflow.gumroad.com/l/small-business-ai-profit-kit?utm_source=github_repo&utm_medium=free&utm_campaign=ebook_marketing&utm_content=readme-product-link)

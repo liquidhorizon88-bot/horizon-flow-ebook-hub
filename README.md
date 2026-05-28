@@ -91,6 +91,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Which Horizon Flow Ebook Should I Use?](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/which-horizon-flow-ebook.html)
 - [AI Search FAQ Page Template for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-faq-page-template-small-business.html)
 - [AI Search Homepage Checklist for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-homepage-checklist-small-business.html)
+- [AI Search Service Area Page Checklist for Local Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-service-area-page-checklist-local-business.html)
 - [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
 ## Products
@@ -108,3 +109,4 @@ Every public resource should be useful without requiring a purchase. Product lin
 Latest marketing surface checks validate live URLs, sitemap entries, UTM links, and HTTP status codes. See the marketing-agent reports under `/home/hermes/digital-products/marketing-agent/reports/` on the production machine.
 
 - [AI Search Local Citation Consistency Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-local-citation-consistency-checklist-small-business.html) — copy/paste citation cleanup worksheet for AI-search-safe local SEO facts.
+- [AI Search Service Area Page Checklist for Local Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-service-area-page-checklist-local-business.html) — copy/paste service-area page worksheet for local SEO and AI-search proof.

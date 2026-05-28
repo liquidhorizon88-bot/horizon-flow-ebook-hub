@@ -113,6 +113,8 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Search Location Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-location-page-checklist-small-business.html) — location-page worksheet for verified service areas, local proof, buyer FAQs, internal links, and AI-search human review.
 - [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
+- [Free Ebook Marketing Plan for Gumroad Creators](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/free-ebook-marketing-plan-gumroad-creators.html) — research-backed no-ad ebook marketing plan for Gumroad-style creators.
+
 ## Products
 
 - [The Small Business AI Profit Kit](https://horizonflow.gumroad.com/l/small-business-ai-profit-kit?utm_source=github_repo&utm_medium=free&utm_campaign=ebook_marketing&utm_content=readme-product-link)

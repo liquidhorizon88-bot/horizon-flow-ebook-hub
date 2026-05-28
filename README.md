@@ -92,6 +92,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Search FAQ Page Template for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-faq-page-template-small-business.html)
 - [AI Search Homepage Checklist for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-homepage-checklist-small-business.html)
 - [AI Search Service Area Page Checklist for Local Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-service-area-page-checklist-local-business.html)
+- [AI Search About Page Template for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-about-page-template-small-business.html) — copy/paste About page fact worksheet, AI drafting prompt, proof checks, and human-review stop rules.
 - [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
 ## Products

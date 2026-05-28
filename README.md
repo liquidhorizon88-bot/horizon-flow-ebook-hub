@@ -98,6 +98,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Search About Page Template for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-about-page-template-small-business.html) — copy/paste About page fact worksheet, AI drafting prompt, proof checks, and human-review stop rules.
 - [AI Search Review Proof Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-review-proof-checklist-small-business.html) — review-proof worksheet for real testimonials, permission status, privacy rules, supported claims, and AI-search human review.
 - [AI Search Pricing Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-pricing-page-checklist-small-business.html) — pricing-page worksheet for packages, pricing factors, inclusions, exclusions, FAQs, proof, and human-reviewed offer claims.
+- [AI Search Product Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-product-page-checklist-small-business.html) — product-page and marketplace-listing worksheet for buyer facts, proof, policies, FAQs, and human-reviewed claims.
 - [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
 ## Products

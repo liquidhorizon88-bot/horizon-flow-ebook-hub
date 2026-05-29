@@ -151,4 +151,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [AI Search Press Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-press-page-checklist-small-business.html) — press/media/awards proof worksheet, AI drafting prompt, permission checks, and human-review stop rules for AI-search visibility.
 
 ## Latest local-service resource
+- [Permit and HOA Approval Text Templates for Local Service Businesses](articles/permit-hoa-approval-text-templates-local-service.html) — approval-blocked estimate texts for permits, HOA/landlord sign-off, access documents, scheduling holds, and CRM notes.
 - [Financing Option Follow-Up Text Templates for Local Service Businesses](articles/financing-option-follow-up-text-templates-local-service.html) — budget-fit, financing handoff, approved-link, scope-review, and CRM-note scripts.

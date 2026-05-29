@@ -33,6 +33,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Client Intake Form Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-client-intake-form-templates-small-business.html)
 - [Prompt Card Template for Small Business AI](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/prompt-card-template-small-business-ai.html)
 - [AI Workflow Audit Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-audit-checklist-small-business.html) — seven AI workflow checks, a copy/paste audit prompt, and keep/fix/retire scorecard for prompt/workflow scaling decisions.
+- [30-Day AI Tool Pilot Tracker for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-tool-pilot-tracker-small-business.html) — copy/paste AI tool pilot card, weekly check-ins, success metric, stop conditions, and keep/fix/cancel worksheet.
 - [AI Review Response Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-review-response-templates-small-business.html)
 - [Review Request Text Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/review-request-text-templates-small-business.html)
 - [Testimonial Request Email Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/testimonial-request-email-templates-small-business.html)

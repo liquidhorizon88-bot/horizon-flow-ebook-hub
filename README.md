@@ -141,3 +141,4 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 
 - [AI Search Local Citation Consistency Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-local-citation-consistency-checklist-small-business.html) — copy/paste citation cleanup worksheet for AI-search-safe local SEO facts.
 - [AI Search Service Area Page Checklist for Local Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-service-area-page-checklist-local-business.html) — copy/paste service-area page worksheet for local SEO and AI-search proof.
+- [AI Search Press Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-press-page-checklist-small-business.html) — press/media/awards proof worksheet, AI drafting prompt, permission checks, and human-review stop rules for AI-search visibility.

@@ -157,3 +157,6 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 ## Latest local-service resource
 - [Permit and HOA Approval Text Templates for Local Service Businesses](articles/permit-hoa-approval-text-templates-local-service.html) — approval-blocked estimate texts for permits, HOA/landlord sign-off, access documents, scheduling holds, and CRM notes.
 - [Financing Option Follow-Up Text Templates for Local Service Businesses](articles/financing-option-follow-up-text-templates-local-service.html) — budget-fit, financing handoff, approved-link, scope-review, and CRM-note scripts.
+
+## Recently added resources
+- [AI SOP Exception Log Template for Small Business](articles/ai-sop-exception-log-template-small-business.html) — exception-log columns, weekly review prompt, manager handoff note, and keep/fix/pause rules.

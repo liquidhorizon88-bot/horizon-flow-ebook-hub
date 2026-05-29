@@ -119,6 +119,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Lead Response Workflow for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-response-workflow-local-service-businesses.html)
 
 - [Free Ebook Marketing Plan for Gumroad Creators](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/free-ebook-marketing-plan-gumroad-creators.html) — research-backed no-ad ebook marketing plan for Gumroad-style creators.
+- [Gumroad Audience Update Sequence for Ebook Creators](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/gumroad-audience-update-sequence-ebook-creators.html) — copy/paste opted-in update messages that route readers from a free sample to a paid ebook offer safely.
 
 - [Free Ebook Sample Library for Small Business AI and Lead Follow-Up](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/free-ebook-sample-library.html) — chooser page for current free samples and paid playbook fit.
 

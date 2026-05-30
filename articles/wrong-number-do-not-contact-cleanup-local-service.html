@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wrong Number and Do-Not-Contact Cleanup Checklist for Local Service Leads</title>
+  <meta name="description" content="Copy/paste wrong-number, opt-out, do-not-contact, and unreachable-lead cleanup templates with CRM labels, stop rules, and AI summary guardrails for local service teams.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/wrong-number-do-not-contact-cleanup-local-service.html">
+  <meta property="og:title" content="Wrong Number and Do-Not-Contact Cleanup Checklist for Local Service Leads">
+  <meta property="og:description" content="Clean up risky local-service lead records without over-texting: wrong-number replies, opt-outs, do-not-contact labels, unreachable closeout notes, and AI guardrails.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/wrong-number-do-not-contact-cleanup-local-service.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero article-hero">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../free/ai-lead-response-quickstart.html">Free quickstart</a><a href="../resources/local-service-lead-response-resource-library.html">Resource library</a></nav>
+    <p class="eyebrow">Local service lead response • wrong number cleanup • do-not-contact workflow</p>
+    <h1>Wrong Number and Do-Not-Contact Cleanup Checklist for Local Service Leads</h1>
+    <p class="lede">Fast follow-up helps local-service teams, but bad phone numbers, STOP replies, duplicate contacts, shared family phones, and angry refusals can turn automation into a liability. Use this checklist to close out unsafe records, keep CRM labels clean, and stop AI-assisted follow-up before it keeps nudging the wrong person.</p>
+    <p><a class="button primary" href="../free/ai-lead-response-quickstart.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup">Use the free AI lead response quickstart</a> <a class="button" href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup" rel="nofollow sponsored">See Local Lead Rescue System</a></p>
+  </header>
+
+  <main class="section article">
+    <section>
+      <h2>When this cleanup workflow matters</h2>
+      <p>Use this page when a lead record is no longer safe to follow up automatically: the recipient says wrong number, replies STOP, asks not to be contacted, disputes the request, appears to be a shared phone, or has received the maximum number of unanswered touches.</p>
+      <ul>
+        <li><strong>Best fit:</strong> HVAC, plumbing, cleaning, landscaping, roofing, pest control, appliance repair, property-maintenance, and other local-service teams with missed-call, form, SMS, or CRM follow-up workflows.</li>
+        <li><strong>Human review rule:</strong> confirm the original source, consent status, prior messages, customer identity, duplicate records, open jobs, estimates, invoices, warranty notes, and any legal/privacy issues before changing the record.</li>
+        <li><strong>Stop rule:</strong> stop automation immediately on STOP, opt-out, wrong number, do-not-contact, privacy complaint, abusive refusal, legal threat, disputed identity, or suspected emergency/safety issue. Route exceptions to an owner or manager.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Template 1: wrong-number apology and closeout</h2>
+      <div class="template-box">
+        <p><strong>Use when:</strong> the recipient says this is the wrong number or the requested service is not theirs.</p>
+        <p>Sorry about that — we have marked this number as wrong for the [service/request] record and will not text it again. No reply needed. If you still receive a message from us, please reply STOP and we will review the record manually.</p>
+        <p><strong>CRM note:</strong> wrong_number_confirmed; source=[lead source]; closed_by=[staff]; duplicate_check_needed=[yes/no].</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Template 2: do-not-contact confirmation</h2>
+      <div class="template-box">
+        <p><strong>Use when:</strong> someone explicitly asks not to be contacted, even if they do not use the word STOP.</p>
+        <p>Understood. We have marked this request as do not contact and will not follow up by text about it again. If this was connected to an active appointment, invoice, warranty, or safety issue, please call [approved phone] so a manager can review it.</p>
+        <p><strong>CRM note:</strong> do_not_contact; channel=sms; reason=[customer request/wrong number/privacy/other]; automation_paused=true.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Template 3: unreachable lead closeout</h2>
+      <div class="template-box">
+        <p><strong>Use when:</strong> the lead has received the approved cadence and has not replied.</p>
+        <p>Hi [First Name], we are closing the loop on your [service] request for now. If you still need help, call [phone] or submit a new request at [booking/contact link]. We will not keep texting about this request. Reply STOP if you do not want texts from us.</p>
+        <p><strong>CRM note:</strong> closed_unreachable; touches=[count]; last_touch=[date]; next_allowed_action=[new inbound only/nurture date/manager review].</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Template 4: duplicate or shared phone review</h2>
+      <div class="template-box">
+        <p><strong>Use when:</strong> two leads share a phone number, a spouse/tenant/manager is involved, or the CRM might have merged the wrong contact.</p>
+        <p>Hi, this is [Business]. We may have multiple records tied to this number. Before sending more details, can you confirm which [service/property/request] this is about? If you prefer not to text, call [phone]. Reply STOP if this number should not receive texts.</p>
+        <p><strong>CRM note:</strong> identity_unclear; duplicate_review_needed; do_not_send_estimate_or_private_details_until_confirmed.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>CRM cleanup fields to add</h2>
+      <ul>
+        <li><strong>Contact status:</strong> active, wrong number, do not contact, opted out, phone-only, email-only, unreachable, duplicate review, manager review.</li>
+        <li><strong>Consent source:</strong> web form, phone call, voicemail, Google Business Profile, marketplace, referral, imported CRM, unknown.</li>
+        <li><strong>Last safe action:</strong> permission request sent, one follow-up sent, closeout sent, no further outreach, manager review required.</li>
+        <li><strong>Risk flag:</strong> privacy complaint, payment dispute, warranty, safety/emergency, legal threat, identity unclear, shared phone, minor/customer mismatch.</li>
+        <li><strong>Audit note:</strong> who updated the record, date, screenshot/link to the customer reply if your CRM supports it, and what automation was paused.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>AI summary prompt for cleanup decisions</h2>
+      <div class="template-box">
+        <p><strong>Copy/paste prompt:</strong></p>
+        <p>You are helping a local service business decide whether a lead record is safe to follow up. Use only the facts provided. Do not invent consent, customer identity, price, diagnosis, appointment status, warranty, legal rights, emergency instructions, or opt-out status. Return: contact status, consent source, last safe action, whether automation must stop, CRM labels, one approved closeout note if appropriate, and the human reviewer. If the record includes STOP, wrong number, do not contact, privacy complaint, disputed identity, abusive refusal, legal/safety/emergency issue, or unclear duplicate contacts, say STOP AUTOMATION and route to manager review.</p>
+      </div>
+    </section>
+
+    <section class="note">
+      <h2>Where this fits in the lead-response system</h2>
+      <p>This cleanup workflow supports the <a href="../articles/sms-consent-follow-up-templates-local-service.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup">SMS consent templates</a>, <a href="../articles/stale-lead-follow-up-templates-local-service.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup">stale lead follow-up templates</a>, <a href="../articles/lead-response-sla-checklist-local-service.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup">lead response SLA checklist</a>, <a href="../free/speed-to-lead-swipe-file.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup">free speed-to-lead swipe file</a>, and <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=wrong-number-cleanup" rel="nofollow sponsored">Local Lead Rescue System</a>. The goal is not more follow-up; it is safer follow-up with clear stop conditions.</p>
+    </section>
+  </main>
+  <footer class="section footer"><p>Horizon Flow — practical AI workflows and lead follow-up systems for small businesses.</p></footer>
+</body>
+</html>

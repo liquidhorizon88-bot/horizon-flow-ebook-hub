@@ -122,6 +122,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [AI Workflow Templates for Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-templates-for-service-businesses.html)
 - [Stale Lead Follow-Up Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/stale-lead-follow-up-templates-local-service.html)
 - [Which Horizon Flow Ebook Should I Use?](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/resources/which-horizon-flow-ebook.html)
+- [AI Search FAQ Refresh Calendar for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-faq-refresh-calendar-small-business.html) — monthly FAQ refresh calendar, stale-answer log, source-of-truth review, AI drafting prompt, and human-review stop rules for proof-safe AI-search answers.
 - [AI Search FAQ Page Template for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-faq-page-template-small-business.html)
 - [AI Search Contact Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-contact-page-checklist-small-business.html)
 - [AI Search Homepage Checklist for Small Business Websites](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-homepage-checklist-small-business.html)

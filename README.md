@@ -176,3 +176,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 
 ## Recently added resources
 - [AI SOP Exception Log Template for Small Business](articles/ai-sop-exception-log-template-small-business.html) — exception-log columns, weekly review prompt, manager handoff note, and keep/fix/pause rules.
+
+- [Service Ticket Closeout Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/service-ticket-closeout-text-templates-local-service.html) — copy/paste closeout messages, closeout reasons, CRM labels, reopen triggers, and no-invented-claim guardrails for local-service teams.

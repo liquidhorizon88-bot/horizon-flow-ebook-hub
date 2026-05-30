@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Prompt Version Control Log for Small Businesses</title>
+  <meta name="description" content="Copy/paste prompt version log, change-review checklist, rollback note, and human-review rules for small businesses using AI prompts with a team.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-prompt-version-control-log-small-business.html">
+  <meta property="og:title" content="AI Prompt Version Control Log for Small Businesses">
+  <meta property="og:description" content="Track prompt changes, owners, test outputs, approval notes, and rollback rules before team AI prompts drift.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-prompt-version-control-log-small-business.html">
+  <link rel="stylesheet" href="../styles.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"AI Prompt Version Control Log for Small Businesses","author":{"@type":"Organization","name":"Horizon Flow"},"mainEntityOfPage":"https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-prompt-version-control-log-small-business.html"}</script>
+</head>
+<body>
+  <header class="hero article-hero">
+    <nav><strong>Horizon Flow</strong><a href="../">Catalog</a><a href="../free/ai-prompt-governance-checklist.html">Free prompt governance checklist</a><a href="../articles/ai-tool-incident-response-checklist-small-business.html">Incident checklist</a></nav>
+    <p class="eyebrow">Small business AI prompts • version control • human review</p>
+    <h1>AI Prompt Version Control Log for Small Businesses</h1>
+    <p class="lede">If a prompt starts producing worse drafts, most teams cannot tell what changed. Use this lightweight version log before shared prompts become mystery machinery.</p>
+    <p><a class="button primary" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-prompt-governance-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=prompt_version_control_log_free">Use the free prompt governance checklist</a> <a class="button" href="https://horizonflow.gumroad.com/l/small-business-ai-profit-kit?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=prompt_version_control_log_paid" rel="nofollow sponsored">See The Small Business AI Profit Kit</a></p>
+  </header>
+  <main class="section article">
+    <h2>When to use this log</h2>
+    <p>Use it for any prompt that more than one person uses, any prompt that touches customers, or any workflow where a worse draft could create support, privacy, pricing, legal, or trust risk. This is not software version control; it is a copy/paste operating log for owners and managers.</p>
+
+    <h2>Copy/paste prompt version log</h2>
+    <table>
+      <thead><tr><th>Field</th><th>What to write</th></tr></thead>
+      <tbody>
+        <tr><td>Prompt name</td><td>Example: Review response draft prompt, Estimate follow-up prompt, Intake summary prompt.</td></tr>
+        <tr><td>Current version</td><td>Use a simple number: v1.0, v1.1, v2.0.</td></tr>
+        <tr><td>Owner</td><td>One person responsible for edits and rollback decisions.</td></tr>
+        <tr><td>Approved use</td><td>What the prompt may draft. Be specific.</td></tr>
+        <tr><td>Forbidden use</td><td>Customer promises, prices, diagnosis, legal/HR/financial advice, private data, or anything requiring owner approval.</td></tr>
+        <tr><td>Change made</td><td>Describe exactly what changed in the wording, variables, source facts, tone rules, or stop rules.</td></tr>
+        <tr><td>Why changed</td><td>Customer confusion, stale policy, lower quality drafts, new service, compliance review, speed improvement, or repeated edit pattern.</td></tr>
+        <tr><td>Test sample</td><td>Paste the test input used to compare old vs new prompt.</td></tr>
+        <tr><td>Old output issue</td><td>What was wrong, risky, too vague, or too slow to edit.</td></tr>
+        <tr><td>New output check</td><td>What improved and what still needs human review.</td></tr>
+        <tr><td>Approved by</td><td>Owner/manager initials and date.</td></tr>
+        <tr><td>Rollback note</td><td>Where the prior version is stored and what would trigger a rollback.</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Three-minute change review</h2>
+    <ol>
+      <li><strong>Compare one real input.</strong> Run the old and new prompt against the same safe sample.</li>
+      <li><strong>Check fact control.</strong> Does the new version ask the AI to use supplied facts only?</li>
+      <li><strong>Check tone drift.</strong> Does it still sound like your business, not a generic AI assistant?</li>
+      <li><strong>Check stop rules.</strong> Does it refuse to invent pricing, promises, diagnosis, policy, legal terms, or unavailable scheduling windows?</li>
+      <li><strong>Check editing effort.</strong> Does the new draft require less cleanup than the old version?</li>
+      <li><strong>Write the rollback trigger.</strong> Example: rollback if two reviewed outputs invent facts or miss required disclaimers.</li>
+    </ol>
+
+    <h2>Copy/paste AI prompt for reviewing a prompt change</h2>
+    <pre><code>You are helping me review a changed AI prompt for a small business workflow.
+Do not invent policies, prices, legal terms, guarantees, availability, or customer promises.
+
+Prompt name: [NAME]
+Approved use: [WHAT THIS PROMPT MAY DRAFT]
+Forbidden use: [WHAT IT MUST NOT DO]
+Old prompt: [PASTE OLD PROMPT]
+New prompt: [PASTE NEW PROMPT]
+Test input: [PASTE SAFE SAMPLE INPUT]
+
+Compare the old and new prompt. Return:
+1. What changed in plain English.
+2. Whether the new prompt has stronger fact-control rules.
+3. Whether the new prompt still needs a human-review step before customer use.
+4. Any missing stop rules.
+5. A rollback trigger if the new prompt performs worse.
+6. A one-paragraph owner approval note.</code></pre>
+
+    <h2>Human-review rule</h2>
+    <p><strong>Human-review rule:</strong> no prompt change is approved just because the AI says it is better. A real owner or manager must compare at least one realistic sample, confirm forbidden uses, and store the prior version before the new prompt is shared with the team.</p>
+
+    <h2>Do not let AI invent the change history</h2>
+    <p><strong>Do not invent:</strong> If you do not know why a prompt changed, who approved it, or whether the output was tested, write “unknown” and review before use. Do not let AI reconstruct missing approvals, policies, compliance claims, customer promises, or old prompt versions from memory.</p>
+
+    <h2>Where this fits</h2>
+    <p>Pair this version log with the <a href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-prompt-governance-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=prompt_version_control_log_free">free AI prompt governance checklist</a>. For a fuller owner-friendly system of prompts, worksheets, rollout steps, and review rules, see <a href="https://horizonflow.gumroad.com/l/small-business-ai-profit-kit?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=prompt_version_control_log_paid" rel="nofollow sponsored">The Small Business AI Profit Kit</a>.</p>
+  </main>
+</body>
+</html>

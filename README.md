@@ -208,3 +208,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Service Ticket Closeout Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/service-ticket-closeout-text-templates-local-service.html) — copy/paste closeout messages, closeout reasons, CRM labels, reopen triggers, and no-invented-claim guardrails for local-service teams.
 
 - [Answering Service Handoff Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/answering-service-handoff-checklist-local-service.html) — copy/paste answering-service handoff fields, callback scripts, CRM labels, AI prompt, and human-review guardrails for after-hours local-service leads.
+
+- [AI Search Title Tag and Meta Description Checklist for Small Businesses](articles/ai-search-title-meta-description-checklist-small-business.html) — source-fact checks and no-invented-claim snippet drafts for SEO After AI.

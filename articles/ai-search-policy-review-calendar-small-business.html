@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Search Policy Review Calendar for Small Businesses</title>
+  <meta name="description" content="Copy/paste AI search policy review calendar for small businesses: track policy pages, owner review, source URLs, stale-risk, next review date, affected pages, and do-not-invent stop rules before AI tools summarize outdated promises.">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-policy-review-calendar-small-business.html">
+  <link rel="stylesheet" href="../styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "AI Search Policy Review Calendar for Small Businesses",
+    "description": "Create a policy review calendar so AI search tools, customers, partners, and staff do not repeat stale business promises.",
+    "dateModified": "2026-05-31",
+    "publisher": {"@type": "Organization", "name": "Horizon Flow"}
+  }
+  </script>
+</head>
+<body>
+  <main class="page-shell article">
+    <nav class="breadcrumb"><a href="../index.html">Horizon Flow Ebook Hub</a> / <a href="ai-search-trust-center-checklist-small-business.html">Trust center checklist</a> / Policy Review Calendar</nav>
+    <p class="eyebrow">SEO After AI • policy freshness • source-of-truth workflow</p>
+    <h1>AI Search Policy Review Calendar for Small Businesses</h1>
+    <p class="lede">AI answer engines can summarize refund, warranty, privacy, support, guarantee, delivery, accessibility, and service-area policies from pages that nobody has reviewed in months. Use this calendar to assign owners, source URLs, stale-risk levels, and next review dates before old policy promises become customer-facing AI answers.</p>
+    <div class="cta-row">
+      <a class="button" href="ai-search-trust-center-checklist-small-business.html?utm_source=github_pages&utm_medium=free&utm_campaign=seo_after_ai_launch&utm_content=policy-review-calendar-trust-center">Use the trust center checklist</a>
+      <a class="button secondary" href="https://horizonflow.gumroad.com/l/seo-after-ai?utm_source=github_pages&utm_medium=free&utm_campaign=seo_after_ai_launch&utm_content=policy-review-calendar-paid-cta" rel="nofollow sponsored">See SEO After AI</a>
+    </div>
+
+    <section>
+      <h2>When to use this calendar</h2>
+      <ul>
+        <li>A policy page mentions refunds, guarantees, support windows, privacy, data collection, accessibility help, service areas, response times, pricing, fees, or warranties.</li>
+        <li>A promotion, service, or operational rule changed and several public pages need the same reviewed wording.</li>
+        <li>An AI tool is helping draft FAQs, schema, comparison copy, or sales answers that might pull from old policies.</li>
+        <li>A chamber, SCORE mentor, agency, or consultant needs a lightweight worksheet to help a small business prevent stale claims.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Copy/paste policy review calendar columns</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Column</th><th>What to enter</th><th>Stop rule</th></tr></thead>
+          <tbody>
+            <tr><td>Policy page / claim</td><td>Refunds, warranty, support, privacy, guarantee, response time, accessibility, service area, or pricing rule.</td><td>Do not group unrelated promises into one row.</td></tr>
+            <tr><td>Current public URL</td><td>Exact page, FAQ, listing, PDF, store page, or directory URL where the claim appears.</td><td>STOP PUBLISHING when no source URL exists.</td></tr>
+            <tr><td>Source of truth</td><td>Approved policy doc, owner note, contract template, helpdesk rule, or product/listing setting.</td><td>Do not let AI infer policy from old copy.</td></tr>
+            <tr><td>Review owner</td><td>Owner, ops lead, support lead, bookkeeper, legal advisor, or other accountable reviewer.</td><td>Unowned policy claims stay draft-only.</td></tr>
+            <tr><td>Risk if wrong</td><td>Customer confusion, refund dispute, legal/compliance risk, bad AI answer, review complaint, lost lead.</td><td>High-risk rows need human review before publishing.</td></tr>
+            <tr><td>Next review date</td><td>Date to recheck the page and related schema, FAQs, snippets, and listings.</td><td>No review date means the claim can go stale silently.</td></tr>
+            <tr><td>Affected surfaces</td><td>Homepage, policy page, FAQ, product page, schema, GBP, directory, email templates, chat prompts.</td><td>Do not update one surface and leave contradictions elsewhere.</td></tr>
+            <tr><td>AI-use boundary</td><td>Which fields AI may rewrite and which facts it must quote exactly.</td><td>Do not invent refund rights, guarantees, legal terms, security claims, service windows, fees, or availability.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>30-minute review workflow</h2>
+      <ol>
+        <li><strong>List the public promises.</strong> Start with policy, FAQ, product, support, privacy, guarantee, and booking pages.</li>
+        <li><strong>Choose the source of truth.</strong> Link each promise to the approved internal or public source that controls the wording.</li>
+        <li><strong>Assign the owner.</strong> Put one reviewer on every row so stale claims have a clear escalation path.</li>
+        <li><strong>Check affected surfaces.</strong> Search the site, listings, marketplace pages, schema, email templates, and AI prompts for the same claim.</li>
+        <li><strong>Update or remove risky copy.</strong> If the source is missing, soften the claim or keep it unpublished until the owner approves it.</li>
+        <li><strong>Schedule the next review.</strong> Policy promises that affect money, privacy, support, legal rights, safety, or availability should not be set-and-forget.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>AI audit prompt</h2>
+      <pre><code>You are auditing small-business policy pages for AI-search accuracy. Use only the facts I provide. Do not invent refund rights, warranties, legal terms, privacy practices, security controls, accessibility compliance, support hours, service areas, pricing, fees, guarantees, review counts, credentials, or outcomes.
+
+Policy review calendar row:
+- Policy page / claim: {policy_claim}
+- Current public URL: {current_url}
+- Source of truth: {source_of_truth}
+- Review owner: {review_owner}
+- Risk if wrong: {risk_if_wrong}
+- Next review date: {next_review_date}
+- Affected surfaces: {affected_surfaces}
+- AI-use boundary: {ai_use_boundary}
+
+Return:
+1. Missing source, owner, or review-date issues
+2. Contradictions across affected surfaces
+3. Risky wording that needs softening or owner review
+4. A source-backed rewrite using only approved facts
+5. STOP PUBLISHING warnings</code></pre>
+    </section>
+
+    <section>
+      <h2>STOP PUBLISHING guardrails</h2>
+      <ul>
+        <li><strong>STOP PUBLISHING</strong> if a policy claim has no source URL, owner, or review date.</li>
+        <li>Do not invent refund rights, warranty coverage, support timelines, legal terms, privacy practices, compliance status, security controls, accessibility compliance, service areas, fees, or guarantees.</li>
+        <li>Do not copy private customer, employee, vendor, contract, or payment details into an AI tool while reviewing policies.</li>
+        <li>Do not let a directory, marketplace, Google Business Profile, schema field, FAQ, or email template contradict the current policy page.</li>
+      </ul>
+      <p>This is a single worksheet-style public resource. If it earns clicks, replies, or reuse, it can become a dedicated SEO After AI bonus worksheet for policy freshness and source-of-truth review.</p>
+    </section>
+  </main>
+</body>
+</html>

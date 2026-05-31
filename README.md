@@ -215,3 +215,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Answering Service Handoff Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/answering-service-handoff-checklist-local-service.html) — copy/paste answering-service handoff fields, callback scripts, CRM labels, AI prompt, and human-review guardrails for after-hours local-service leads.
 
 - [AI Search Title Tag and Meta Description Checklist for Small Businesses](articles/ai-search-title-meta-description-checklist-small-business.html) — source-fact checks and no-invented-claim snippet drafts for SEO After AI.
+
+- [Daily Lead Queue Triage Board for Local Service Businesses](articles/lead-queue-triage-board-local-service.html) — copy/paste daily lead queue board with priority, owner, due-time, consent, escalation, CRM labels, AI assist prompt, and stop rules.

@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Search Quote Block Checklist for Small Business Websites</title>
+  <meta name="description" content="Copy/paste AI search quote block checklist for small business websites: source-backed answer snippets, proof links, internal links, owner review, and no-invented-claim guardrails.">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-quote-block-checklist-small-business.html">
+  <link rel="stylesheet" href="../styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "AI Search Quote Block Checklist for Small Business Websites",
+    "description": "Create source-backed quote blocks that make service, proof, policy, FAQ, and comparison pages easier for buyers and AI answer engines to summarize accurately.",
+    "dateModified": "2026-05-31",
+    "publisher": {"@type": "Organization", "name": "Horizon Flow"}
+  }
+  </script>
+</head>
+<body>
+  <main class="page-shell article">
+    <nav class="breadcrumb"><a href="../index.html">Horizon Flow Ebook Hub</a> / <a href="../free/free-ebook-sample-library.html">Free resource library</a> / AI Search Quote Blocks</nav>
+    <p class="eyebrow">AI search visibility • source-backed snippets</p>
+    <h1>AI Search Quote Block Checklist for Small Business Websites</h1>
+    <p class="lede">AI search systems often lift short, clear, source-backed passages from a page. Use this checklist to create quote-ready blocks that tell buyers what is true, where it is proven, when it applies, and when a human must review the claim before publishing.</p>
+    <div class="cta-row">
+      <a class="button" href="../free/free-ebook-sample-library.html?utm_source=github_pages&utm_medium=free&utm_campaign=seo_after_ai_launch&utm_content=quote-block-checklist">Start with the free sample library</a>
+      <a class="button secondary" href="https://horizonflow.gumroad.com/l/seo-after-ai?utm_source=github_pages&utm_medium=free&utm_campaign=seo_after_ai_launch&utm_content=quote-block-checklist" rel="nofollow sponsored">See SEO After AI</a>
+    </div>
+
+    <section>
+      <h2>Use this when a page needs quotable facts</h2>
+      <ul>
+        <li>Service, location, pricing, booking, guarantee, FAQ, proof, review, staff, trust-center, or comparison pages need clearer answer snippets.</li>
+        <li>You want AI Overviews, ChatGPT Search, Perplexity, Gemini, Copilot, and classic search visitors to repeat the same verified facts.</li>
+        <li>A page has useful details but they are buried in long paragraphs, image-only designs, vague adjectives, or unsupported claims.</li>
+        <li>The business has multiple sources of truth and needs a safe block that points back to the official policy, service page, proof URL, or owner-approved note.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Copy/paste quote block worksheet</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Field</th><th>What to enter</th><th>Review rule</th></tr></thead>
+          <tbody>
+            <tr><td>Page URL</td><td>The page where the quote block will appear.</td><td>Use the live canonical URL, not a draft-only link.</td></tr>
+            <tr><td>Question answered</td><td>The buyer or AI-search question the block answers in one sentence.</td><td>If the question is vague, rewrite it before drafting.</td></tr>
+            <tr><td>Verified answer</td><td>The exact claim, policy, service, limitation, result, or next step.</td><td>Do not invent services, pricing, locations, guarantees, awards, availability, or results.</td></tr>
+            <tr><td>Source/proof link</td><td>Policy page, service page, case study, review, license, FAQ, form, public profile, or owner-approved doc.</td><td>No proof link means the block needs owner review before publishing.</td></tr>
+            <tr><td>Who it applies to</td><td>Customer segment, location, service line, plan, timeframe, or eligibility rule.</td><td>Make limits visible; do not let a narrow fact sound universal.</td></tr>
+            <tr><td>Internal link target</td><td>The next page a reader should visit after the quote block.</td><td>Prefer a helpful service, FAQ, booking, proof, or free-resource page.</td></tr>
+            <tr><td>Owner/reviewer</td><td>Name or role that approved the block.</td><td>Policy, pricing, legal, medical, finance, safety, or guarantee wording needs human signoff.</td></tr>
+            <tr><td>Review date</td><td>Date the block was checked and next review date.</td><td>Stale quote blocks can become misinformation in AI summaries.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Quote block structure</h2>
+      <pre><code>&lt;aside class="answer-block"&gt;
+  &lt;h2&gt;Short question the page answers&lt;/h2&gt;
+  &lt;p&gt;&lt;strong&gt;Verified answer:&lt;/strong&gt; {one or two clear sentences using only source-backed facts}.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Applies to:&lt;/strong&gt; {locations / services / plans / timeframe / eligibility}.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href="{proof_url}"&gt;{proof label}&lt;/a&gt;. Reviewed by {owner_role} on {date}.&lt;/p&gt;
+  &lt;p&gt;&lt;a href="{next_internal_url}"&gt;Next helpful page&lt;/a&gt;&lt;/p&gt;
+&lt;/aside&gt;</code></pre>
+      <p>Keep the block plain enough for humans to scan and structured enough for answer engines to understand. It should add clarity, not stuff keywords.</p>
+    </section>
+
+    <section>
+      <h2>AI drafting prompt</h2>
+      <pre><code>You are helping a small business turn verified page facts into a quote-ready answer block for AI search and buyers. Use only the facts provided. Do not invent services, prices, availability, guarantees, awards, certifications, locations, results, customer stories, or policy terms.
+
+Page URL: {page_url}
+Question to answer: {question}
+Verified facts: {facts}
+Source/proof links: {source_links}
+Applies to / limits: {limits}
+Internal link target: {internal_link}
+Reviewer/approval status: {reviewer_status}
+
+Return:
+1. Quote block headline
+2. Verified answer in 1-2 sentences
+3. Applies-to line
+4. Source/proof line
+5. Suggested internal link anchor
+6. Missing facts that require owner review before publishing
+7. Any phrase to remove because it is unsupported</code></pre>
+    </section>
+
+    <section>
+      <h2>STOP PUBLISHING rules</h2>
+      <ul>
+        <li><strong>STOP PUBLISHING</strong> if the block contains a price, warranty, guarantee, claim, certification, award, legal/compliance statement, medical/financial advice, or safety promise that has not been verified by the owner or policy source.</li>
+        <li>Do not use AI to turn "usually," "maybe," or "sometimes" into a firm promise.</li>
+        <li>Do not cite private customer details, private messages, or unpublished internal docs as public proof.</li>
+        <li>Do not hide important limits in footnotes when the main answer could mislead a buyer or AI summary.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Example: service page quote block</h2>
+      <blockquote><strong>Verified answer:</strong> Horizon Flow recommends adding one source-backed answer block to service, FAQ, proof, policy, and comparison pages before asking AI to rewrite the whole page. Each block should include the question answered, the verified answer, where it applies, the source link, and a human review date.</blockquote>
+      <p>This style helps a small business make a page easier to quote without making risky SEO promises or inventing unsupported claims.</p>
+    </section>
+
+    <section>
+      <h2>Related resources</h2>
+      <ul>
+        <li><a href="ai-search-answer-gap-log-small-business.html">AI Search Answer Gap Log</a> — find missing buyer questions before writing blocks.</li>
+        <li><a href="ai-search-entity-fact-sheet-small-business.html">AI Search Entity Fact Sheet</a> — keep official business facts consistent.</li>
+        <li><a href="ai-search-citation-conflict-log-small-business.html">AI Search Citation Conflict Log</a> — clean up mismatched source facts.</li>
+        <li><a href="../free/free-ebook-sample-library.html">Free Horizon Flow sample library</a> — browse starter checklists and worksheets.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

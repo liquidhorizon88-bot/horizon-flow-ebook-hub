@@ -227,3 +227,4 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Daily Lead Queue Triage Board for Local Service Businesses](articles/lead-queue-triage-board-local-service.html) — copy/paste daily lead queue board with priority, owner, due-time, consent, escalation, CRM labels, AI assist prompt, and stop rules.
 
 - [Lead Response Coverage Schedule for Local Service Businesses](articles/lead-response-coverage-schedule-local-service.html) — copy/paste coverage schedule, backup owner map, AI audit prompt, and STOP AUTOMATION guardrails for local-service lead channels.
+- Referral Source Lead Handoff Checklist for Local Service Businesses — `articles/referral-source-lead-handoff-checklist-local-service.html`

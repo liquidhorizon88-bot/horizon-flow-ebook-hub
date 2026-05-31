@@ -231,3 +231,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Lead Response Coverage Schedule for Local Service Businesses](articles/lead-response-coverage-schedule-local-service.html) — copy/paste coverage schedule, backup owner map, AI audit prompt, and STOP AUTOMATION guardrails for local-service lead channels.
 - Referral Source Lead Handoff Checklist for Local Service Businesses — `articles/referral-source-lead-handoff-checklist-local-service.html`
 - Callback Attempt Log Checklist for Local Service Businesses — `articles/callback-attempt-log-checklist-local-service.html`
+
+- [Late Reply Lead Reopen Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/late-reply-lead-reopen-checklist-local-service.html) — copy/paste reopen checklist, late-reply scripts, CRM labels, AI summary prompt, and STOP AUTOMATION guardrails before restarting an old lead thread.

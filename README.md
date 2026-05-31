@@ -224,3 +224,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 
 - [Unassigned Lead Escalation Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/unassigned-lead-escalation-checklist-local-service.html) — copy/paste escalation fields, overdue callback scripts, STOP AUTOMATION rules, and CRM notes for ownerless local-service leads.
 - [Daily Lead Queue Triage Board for Local Service Businesses](articles/lead-queue-triage-board-local-service.html) — copy/paste daily lead queue board with priority, owner, due-time, consent, escalation, CRM labels, AI assist prompt, and stop rules.
+
+- [Lead Response Coverage Schedule for Local Service Businesses](articles/lead-response-coverage-schedule-local-service.html) — copy/paste coverage schedule, backup owner map, AI audit prompt, and STOP AUTOMATION guardrails for local-service lead channels.

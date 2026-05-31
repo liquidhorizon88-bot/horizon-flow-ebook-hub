@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Call Disposition Code Checklist for Local Service Businesses</title>
+  <meta name="description" content="Copy/paste call disposition codes, CRM outcome labels, callback rules, AI summary prompt, and no-invented-call-outcome guardrails for local service teams.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/call-disposition-code-checklist-local-service.html">
+  <meta property="og:title" content="Call Disposition Code Checklist for Local Service Businesses">
+  <meta property="og:description" content="Copy/paste call disposition codes, CRM outcome labels, callback rules, AI summary prompt, and no-invented-call-outcome guardrails for local service teams.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/call-disposition-code-checklist-local-service.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav><strong>Horizon Flow</strong><a href="../">Catalog</a><a href="../resources/local-service-lead-response-resource-library.html">Lead response library</a><a href="../free/ai-lead-response-quickstart.html">AI lead response quickstart</a><a href="../articles/lead-response-coverage-schedule-local-service.html">Coverage schedule</a></nav>
+    <div class="hero-grid">
+      <section>
+        <p class="eyebrow">Local Lead Rescue • CRM hygiene • call outcomes</p>
+        <h1>Call Disposition Code Checklist for Local Service Businesses</h1>
+        <p class="lede">When every missed call, estimate request, wrong number, duplicate lead, and no-answer attempt gets the same vague CRM note, owners cannot see which leads need action. Use this simple disposition code list to make next steps visible without letting AI invent what happened.</p>
+        <a class="button primary" href="../free/ai-lead-response-quickstart.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=call_disposition_code_checklist">Use the free AI Lead Response Quickstart</a>
+        <a class="button" href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=call_disposition_code_checklist_paid" rel="nofollow sponsored">See Local Lead Rescue System</a>
+      </section>
+      <aside class="proof">
+        <h2>Best for</h2>
+        <ul>
+          <li>Front desks, dispatchers, estimators, and owner-operators</li>
+          <li>Local service businesses using spreadsheets, Jobber, Housecall Pro, ServiceTitan, HubSpot, or any CRM</li>
+          <li>Teams that want cleaner follow-up before buying more ads</li>
+          <li>Managers reviewing missed calls, web forms, texts, and marketplace leads</li>
+        </ul>
+      </aside>
+    </div>
+  </header>
+  <main>
+    <section class="section article">
+      <p class="eyebrow">Copy/paste worksheet</p>
+      <h2>Start with 12 disposition codes</h2>
+      <p>Keep the labels short enough for a CRM dropdown, but specific enough that the next owner knows what to do.</p>
+      <table>
+        <thead><tr><th>Code</th><th>Use when</th><th>Required next field</th></tr></thead>
+        <tbody>
+          <tr><td>NEW-UNTOUCHED</td><td>Lead arrived and no human response has happened yet.</td><td>Owner + first-response due time</td></tr>
+          <tr><td>CALLBACK-DUE</td><td>Customer asked for a callback or the first call was missed.</td><td>Callback window + owner</td></tr>
+          <tr><td>NEEDS-ONE-DETAIL</td><td>One missing detail blocks routing, quote, or scheduling.</td><td>Exact detail requested</td></tr>
+          <tr><td>QUOTE-SENT</td><td>Estimate/quote was sent and needs a follow-up date.</td><td>Follow-up date + quote link/reference</td></tr>
+          <tr><td>SCHEDULED</td><td>Appointment is booked and confirmation is needed.</td><td>Date/window + confirmation status</td></tr>
+          <tr><td>WAITLIST-CAPACITY</td><td>Business is booked out or waiting on a cancellation slot.</td><td>Earliest honest window + opt-in status</td></tr>
+          <tr><td>PARTS-DOCUMENTS-HOLD</td><td>Parts, permit, HOA, photos, certificate, or access details are missing.</td><td>Missing item + responsible party</td></tr>
+          <tr><td>NOT-A-FIT</td><td>Service, area, budget, timing, or policy makes the job not a fit.</td><td>Reason code + approved closeout message</td></tr>
+          <tr><td>WRONG-NUMBER-DNC</td><td>Wrong number, opt-out, spam, duplicate contact, or do-not-contact request.</td><td>Suppression/cleanup note</td></tr>
+          <tr><td>DUPLICATE-MERGED</td><td>Same lead arrived from more than one channel.</td><td>Primary record + preserved source(s)</td></tr>
+          <tr><td>LOST-REASON-KNOWN</td><td>The team knows why the lead was lost.</td><td>Evidence + reactivation eligibility</td></tr>
+          <tr><td>OWNER-REVIEW</td><td>The next reply touches price, diagnosis, warranty, emergency, refund, legal, or policy claims.</td><td>Reviewer + question to answer</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section article">
+      <h2>CRM fields to add beside the code</h2>
+      <ul>
+        <li><strong>Lead source:</strong> phone, form, text, marketplace, referral, repeat customer, ad, organic, or unknown.</li>
+        <li><strong>Last customer touch:</strong> date/time and channel of the latest real human or approved automated message.</li>
+        <li><strong>Next owner:</strong> dispatcher, estimator, tech, office manager, owner, customer, partner, or no-action.</li>
+        <li><strong>Next due time:</strong> a specific date/time, not “soon.”</li>
+        <li><strong>Stop reason:</strong> opt-out, wrong number, safety issue, legal/policy review, not serviceable, duplicate, or closed.</li>
+        <li><strong>Evidence link:</strong> call log, form entry, quote, photo, email thread, CRM note, or invoice reference.</li>
+      </ul>
+      <p><strong>STOP AUTOMATION:</strong> do not let AI assign a disposition code from incomplete notes if the result would trigger pricing, diagnosis, emergency advice, warranty/refund wording, or do-not-contact decisions.</p>
+    </section>
+
+    <section class="section article">
+      <h2>Two copy/paste internal notes</h2>
+      <h3>1) Callback due handoff</h3>
+      <pre><code>Disposition: CALLBACK-DUE
+Lead: {first_name_or_record_id}
+Source: {call/form/text/marketplace/referral}
+Need: {short_service_need}
+Last touch: {time_and_channel}
+Callback window: {approved_window}
+Owner: {name_or_role}
+Stop rule: Do not promise exact arrival, price, diagnosis, warranty, emergency status, or service availability until {reviewer} confirms.</code></pre>
+      <h3>2) Needs one detail</h3>
+      <pre><code>Disposition: NEEDS-ONE-DETAIL
+Missing detail: {photo/address/access/model/timing/budget/approval}
+Customer-safe ask: {approved_question}
+Owner after reply: {dispatcher/estimator/owner}
+Due time: {date_time}
+Stop rule: If the reply changes scope, safety, price, warranty, or policy, move to OWNER-REVIEW.</code></pre>
+    </section>
+
+    <section class="section article">
+      <h2>AI audit prompt for disposition cleanup</h2>
+      <p>Use anonymized counts and notes only. Remove names, phone numbers, addresses, photos, payment data, and private job details before pasting.</p>
+      <pre><code>You are helping a local service business clean up lead disposition codes. Use only the anonymized summary below. Return: (1) which leads are missing a disposition, (2) which leads have a disposition but no next owner, (3) which leads have a next owner but no due time, (4) which records need OWNER-REVIEW, and (5) a safer CRM dropdown list. Do not invent call outcomes, customer consent, availability, pricing, diagnosis, warranty, emergency status, or lost reasons. If evidence is missing, write NEEDS HUMAN REVIEW. Summary: {paste anonymized lead table}</code></pre>
+    </section>
+
+    <section class="section split">
+      <div>
+        <p class="eyebrow">Free first, paid if useful</p>
+        <h2>Use codes to find the follow-up leak</h2>
+        <p>After one week, count how many records sit in NEW-UNTOUCHED, CALLBACK-DUE, NEEDS-ONE-DETAIL, QUOTE-SENT, and OWNER-REVIEW. The biggest pile usually tells you which script or workflow to fix first.</p>
+        <p>For more scripts, routing rules, and lead rescue workflows, <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=call_disposition_code_checklist_footer" rel="nofollow sponsored">Local Lead Rescue System</a> expands this into a full missed-lead recovery system.</p>
+      </div>
+      <div class="note">
+        <p><strong>Product signal:</strong> if this worksheet earns reuse, add a call-disposition/CRM cleanup appendix to Local Lead Rescue System.</p>
+        <p><strong>Disclosure:</strong> Horizon Flow is Andrew Burton's digital product catalog. This free article is useful without purchase; product links are labeled and UTM-tagged.</p>
+      </div>
+    </section>
+  </main>
+  <footer>Updated 2026-05-31 • Horizon Flow by Andrew Burton</footer>
+</body>
+</html>

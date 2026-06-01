@@ -7,6 +7,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
 
+- [AI Tool Cancellation and Access Shutoff Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-tool-cancellation-access-shutoff-checklist-small-business.html) — copy/paste cancellation proof fields, seat/access shutoff steps, billing review, team update text, and STOP AUTOMATION guardrails before cancelling an AI tool or subscription.
 - [Estimate Change Request Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/estimate-change-request-checklist-local-service.html) — copy/paste change-request intake fields, customer-safe replies, scope/price/schedule review prompts, CRM labels, and STOP AUTOMATION guardrails before altering a local-service estimate.
 - [Google Business Profile Q&A Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/google-business-profile-q-and-a-checklist-small-business.html) — copy/paste GBP Q&A source-of-truth card, public answer templates, AI drafting prompt, and STOP PUBLISHING guardrails before public answers create unsupported AI-search facts.
 - [AI Search Event Page Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-event-page-checklist-small-business.html) — event-page source-of-truth card, AI audit prompt, safe calendar blurbs, and STOP PUBLISHING guardrails for workshops, webinars, classes, and local events.

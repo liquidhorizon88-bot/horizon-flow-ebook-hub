@@ -115,6 +115,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Photo Request Text Templates for Local Service Estimates](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/photo-request-text-templates-local-service.html)
 - [AI Task Handoff Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-task-handoff-prompt-small-business.html)
 - [Customer Complaint Response AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-complaint-response-ai-prompt-small-business.html)
+- [Customer Complaint Escalation Log for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-complaint-escalation-log-small-business.html) — copy/paste complaint escalation log, owner-review fields, public/private split, safe AI draft prompt, and STOP AUTOMATION guardrails before sending customer complaint responses.
 - [Seasonal Promotion AI Prompt for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/seasonal-promotion-ai-prompt-small-business.html)
 - [Leasing Inquiry Response Templates for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/leasing-inquiry-response-templates-property-managers.html)
 - [Warranty Follow-Up Text Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/warranty-follow-up-text-templates-local-service.html)

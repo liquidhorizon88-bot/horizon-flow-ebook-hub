@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Technician Handoff Checklist for Local Service Businesses</title>
+  <meta name="description" content="Copy/paste dispatcher-to-technician handoff fields, customer update templates, CRM labels, AI summary prompt, and STOP AUTOMATION guardrails before sending a crew.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/technician-handoff-checklist-local-service.html">
+  <meta property="og:title" content="Technician Handoff Checklist for Local Service Businesses">
+  <meta property="og:description" content="Dispatcher-to-technician handoff fields, customer-safe status texts, CRM labels, and AI drafting stop rules for local-service lead response.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/technician-handoff-checklist-local-service.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero article-hero">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../resources/local-service-lead-response-resource-library.html">Lead response library</a><a href="../free/speed-to-lead-swipe-file.html">Speed-to-lead swipe file</a></nav>
+    <p class="eyebrow">Local service lead response • dispatcher handoff • field crew updates</p>
+    <h1>Technician Handoff Checklist for Local Service Businesses</h1>
+    <p class="lede">A lead is not truly handled until the field technician, dispatcher, or owner has the right facts. Use this checklist when a lead moves from inbox or phone call into a route, quote, diagnostic visit, or follow-up task.</p>
+    <p><a class="button primary" href="../free/ai-lead-response-quickstart.html?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=technician-handoff">Use the free AI Lead Response Quickstart</a> <a class="button" href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=technician-handoff" rel="nofollow sponsored">See Local Lead Rescue System</a></p>
+  </header>
+  <main class="section article">
+    <section>
+      <h2>Use this before sending a technician or estimator</h2>
+      <ul>
+        <li><strong>Best fit:</strong> local-service teams that route calls, texts, web forms, marketplace leads, and repeat-customer messages to a technician or estimator.</li>
+        <li><strong>Goal:</strong> reduce callbacks, wrong-address visits, missing photos, quote confusion, and unsafe customer promises.</li>
+        <li><strong>Human review rule:</strong> a dispatcher, owner, or manager verifies schedule, access, safety, pricing, diagnosis, warranty, payment, and emergency status before customer-facing promises are sent.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Copy/paste technician handoff card</h2>
+      <div class="template-box">
+        <p><strong>Lead/customer:</strong> [name, phone/email, preferred contact method]</p>
+        <p><strong>Source:</strong> [missed call / web form / inbound text / repeat customer / referral / marketplace]</p>
+        <p><strong>Job type:</strong> [requested service, issue summary, property type]</p>
+        <p><strong>Address/access:</strong> [address verified? access notes? gate/pet/tenant/lockbox?]</p>
+        <p><strong>Photos/files:</strong> [attached / requested / missing / not needed]</p>
+        <p><strong>Customer expectation:</strong> [callback / estimate / diagnostic visit / emergency review / reschedule / closeout]</p>
+        <p><strong>Known constraints:</strong> [budget, timing, warranty, HOA/permit, owner approval, safety risk]</p>
+        <p><strong>Current promise made:</strong> [none / callback window / arrival window / quote review / owner will verify]</p>
+        <p><strong>Technician next action:</strong> [call first / review photos / confirm access / inspect / quote / escalate]</p>
+        <p><strong>STOP AUTOMATION:</strong> Do not invent customer history, consent, arrival time, price, diagnosis, warranty coverage, safety priority, payment status, permit/HOA approval, parts availability, or job completion.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Three customer-safe handoff updates</h2>
+      <article>
+        <h3>1) Dispatcher is routing to a technician</h3>
+        <pre><code>Thanks, [Name]. I’m routing this to the right person now. Before we confirm schedule, price, diagnosis, warranty, or next steps, we’ll review the current details and make sure the technician has the correct address/access notes.</code></pre>
+      </article>
+      <article>
+        <h3>2) Technician needs one missing detail</h3>
+        <pre><code>Hi [Name] — the technician can review this faster with one detail: [photo/access note/model number/best callback window]. Once we have that, we’ll confirm the safest next step instead of guessing.</code></pre>
+      </article>
+      <article>
+        <h3>3) Owner review is needed before a promise</h3>
+        <pre><code>Thanks for the details. This needs owner/manager review before we promise [price/timing/warranty/emergency priority/payment/refund/completion]. We’ll check the current record and follow up with the verified next step.</code></pre>
+      </article>
+    </section>
+
+    <section>
+      <h2>CRM labels for technician handoff</h2>
+      <table>
+        <thead><tr><th>Label</th><th>Use when</th><th>Required proof</th></tr></thead>
+        <tbody>
+          <tr><td>TECH-HANDOFF-READY</td><td>Lead has enough facts for a technician or estimator.</td><td>Address/access, job type, customer expectation, owner</td></tr>
+          <tr><td>TECH-NEEDS-DETAIL</td><td>Photos, model number, gate code, tenant contact, or quote ID is missing.</td><td>Exact detail requested and customer-safe script</td></tr>
+          <tr><td>TECH-OWNER-REVIEW</td><td>Pricing, diagnosis, warranty, safety, payment, refund, or policy risk exists.</td><td>Reviewer and unresolved question</td></tr>
+          <tr><td>TECH-STOP</td><td>Wrong number, opt-out, unsafe request, out-of-scope work, or consent issue blocks follow-up.</td><td>Stop reason and reviewer</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>AI prompt for a dispatcher-to-technician summary</h2>
+      <div class="template-box">
+        <p>You are summarizing a local-service lead for technician handoff. Use only the provided notes. Return: customer/source, requested job, verified facts, missing details, access/safety constraints, current promise made, technician next action, customer-safe update, CRM label, and owner-review risks. If a fact is missing, write NEEDS OWNER REVIEW. Do not invent customer history, consent, address, arrival time, price, diagnosis, warranty, payment status, parts availability, emergency priority, permit/HOA approval, or job completion.</p>
+      </div>
+    </section>
+
+    <section class="note">
+      <h2>Where this fits in the lead-response system</h2>
+      <p>Pair this with the <a href="inbound-text-message-response-checklist-local-service.html?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=technician-handoff-related-inbound-text">Inbound Text Message Response Checklist</a>, <a href="first-reply-quality-checklist-local-service.html?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=technician-handoff-related-first-reply">First-Reply Quality Checklist</a>, <a href="lead-owner-assignment-checklist-local-service.html?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=technician-handoff-related-owner">Lead Owner Assignment Checklist</a>, and <a href="../resources/local-service-lead-response-resource-library.html?utm_source=github_pages&amp;utm_medium=free&amp;utm_campaign=ebook_marketing&amp;utm_content=technician-handoff-library">Local Service Lead Response Resource Library</a>.</p>
+      <p><strong>Product signal:</strong> if technician-handoff resources earn clicks/replies/reuse, consider adding a Local Lead Rescue field-handoff appendix covering address/access proof, technician owner, promise already made, missing detail, customer-safe update, and no-invented-price/diagnosis/warranty/arrival/payment/completion guardrails. This run records one signal only; monitor before editing the buyer ZIP.</p>
+    </section>
+  </main>
+  <footer class="section footer"><p>Updated 2026-06-01 • Horizon Flow by Andrew Burton • Educational resource, not legal, SMS compliance, safety, warranty, diagnostic, scheduling, pricing, payment, emergency-service, or lead-policy advice.</p></footer>
+</body>
+</html>

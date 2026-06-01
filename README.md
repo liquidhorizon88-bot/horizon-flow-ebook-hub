@@ -249,3 +249,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 
 - [AI Request Intake Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-request-intake-checklist-small-business.html) — copy/paste AI request intake card, approval checklist, owner-review prompt, and STOP AUTOMATION guardrails before teams launch another prompt, tool, or AI task.
 - [AI Workflow Weekly Review Agenda for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-weekly-review-agenda-small-business.html) — copy/paste weekly AI workflow review agenda, owner checklist, keep/fix/pause decisions, source-proof checks, and STOP AUTOMATION guardrails before small-business teams expand AI usage.
+
+- [Live Chat Transcript Handoff Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/live-chat-transcript-handoff-checklist-local-service.html) — copy/paste live-chat transcript handoff fields, CRM labels, callback scripts, AI summary prompt, and STOP AUTOMATION guardrails before chat leads get lost.

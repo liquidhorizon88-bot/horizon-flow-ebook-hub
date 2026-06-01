@@ -246,3 +246,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - Callback Attempt Log Checklist for Local Service Businesses — `articles/callback-attempt-log-checklist-local-service.html`
 
 - [Late Reply Lead Reopen Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/late-reply-lead-reopen-checklist-local-service.html) — copy/paste reopen checklist, late-reply scripts, CRM labels, AI summary prompt, and STOP AUTOMATION guardrails before restarting an old lead thread.
+
+- [AI Workflow Weekly Review Agenda for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-weekly-review-agenda-small-business.html) — copy/paste weekly AI workflow review agenda, owner checklist, keep/fix/pause decisions, source-proof checks, and STOP AUTOMATION guardrails before small-business teams expand AI usage.

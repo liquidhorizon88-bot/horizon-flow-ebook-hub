@@ -6,6 +6,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
 
+- [Lead Channel Coverage Audit Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/lead-channel-coverage-audit-checklist-local-service.html) — copy/paste channel coverage map, owner/due-time fields, first-check cadence, AI summary prompt, and STOP AUTOMATION guardrails before local-service leads go unowned across phone, web, SMS, chat, marketplace, and referral channels.
 - [Customer Portal Intake Checklist for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-portal-intake-checklist-local-service.html) — copy/paste portal intake fields, safe first replies, CRM labels, AI summary prompt, and STOP AUTOMATION guardrails before customer-portal leads are routed or summarized.
 - [Free AI Automation Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/ai-automation-checklist.html)
 - [Free Missed Lead Recovery Checklist](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/missed-lead-checklist.html)

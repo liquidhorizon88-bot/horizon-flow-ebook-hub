@@ -1,3 +1,4 @@
+- [AI Search Financing Page Checklist for Local Service Businesses](articles/ai-search-financing-page-checklist-local-service.html) — copy/paste financing-page source-of-truth card, approved-link checks, eligibility wording, customer-safe handoff text, AI audit prompt, and STOP PUBLISHING guardrails before AI search tools invent financing terms.
 # Horizon Flow Ebook Hub
 
 Practical free resources and buyer links for Andrew Burton's Horizon Flow digital playbooks.

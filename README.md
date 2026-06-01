@@ -93,6 +93,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 - [Speed-to-Lead Response Time Benchmark for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/speed-to-lead-response-time-benchmark-local-service.html)
 - [AI Email Reply Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-email-reply-templates-small-business.html)
 - [New Customer Welcome Email Templates for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/new-customer-welcome-email-templates-small-business.html)
+- [Meeting Action Item Tracker for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/meeting-action-item-tracker-small-business.html) — copy/paste meeting action tracker fields, AI summary prompt, source-note checks, owner/due-date fields, and STOP AUTOMATION guardrails before customer-facing follow-up.
 - [AI Meeting Notes Template for Small Business](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-meeting-notes-template-small-business.html)
 - [Missed Web Form Response Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/missed-web-form-response-templates-local-service.html)
 - [DM Inquiry Response Templates for Local Service Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/dm-inquiry-response-templates-local-service.html)

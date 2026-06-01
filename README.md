@@ -278,3 +278,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [AI Workflow Pause and Kill-Switch Checklist for Small Businesses](articles/ai-workflow-pause-kill-switch-checklist-small-business.html) — copy/paste pause triggers, owner/reviewer fields, restart criteria, and STOP AUTOMATION guardrails before risky AI workflows keep running.
 
 - [Multi-Location Lead Routing Checklist for Local Service Businesses](articles/multi-location-lead-routing-checklist-local-service.html) — multi-location routing card, owner/due-time rules, and STOP AUTOMATION guardrails for local-service leads.
+
+- [Parts Backorder Customer Update Checklist for Local Service Businesses](articles/parts-backorder-customer-update-checklist-local-service.html) — copy/paste parts backorder update fields, customer-safe delay texts, CRM labels, and STOP AUTOMATION guardrails before promising replacement parts, arrival dates, warranty coverage, or completion timelines.

@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Search Reputation Correction Log for Small Businesses](articles/ai-search-reputation-correction-log-small-business.html) — copy/paste reputation correction log, wrong-claim proof fields, public-source repair steps, response templates, AI audit prompt, and STOP PUBLISHING guardrails before trying to correct AI-search reputation damage.
 - [AI Staff Access Change Checklist for Small Businesses](articles/ai-staff-access-change-checklist-small-business.html) — copy/paste AI staff access-change fields, role/data-boundary review prompts, team update snippets, and STOP AUTOMATION guardrails before granting, limiting, or removing AI tool access.
 - [Rent Delinquency Follow-Up Checklist for Property Managers](articles/rent-delinquency-follow-up-checklist-property-managers.html) — copy/paste rent-delinquency follow-up fields, tenant-safe reminders, owner review prompts, payment-plan guardrails, CRM labels, and STOP AUTOMATION rules before messaging tenants about late rent, fees, notices, or lease/legal steps.
 - [Chargeback Evidence Checklist for Local Service Businesses](articles/chargeback-evidence-checklist-local-service.html) — copy/paste chargeback evidence fields, job-proof checklist, customer-safe payment response text, CRM labels, and STOP AUTOMATION guardrails before disputing or responding to card chargebacks.

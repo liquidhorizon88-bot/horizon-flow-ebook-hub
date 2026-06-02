@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vendor Price Increase Customer Update Checklist for Local Service Businesses</title>
+  <meta name="description" content="Copy/paste vendor price-increase review fields, customer-safe update texts, CRM labels, owner approval prompts, and STOP AUTOMATION guardrails before passing supplier or materials price changes to customers.">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/vendor-price-increase-customer-update-checklist-local-service.html">
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height:1.65; max-width: 880px; margin: 0 auto; padding: 32px 20px; color:#172033; background:#f7f9fc; }
+    main { background:white; border:1px solid #e5eaf3; border-radius:18px; padding:30px; box-shadow:0 10px 30px rgba(15,23,42,.06); }
+    h1 { line-height:1.1; font-size:2.25rem; margin-top:0; }
+    h2 { margin-top:2rem; }
+    .tag { display:inline-block; background:#e9f5ff; color:#075985; padding:5px 10px; border-radius:999px; font-weight:700; font-size:.85rem; }
+    .box { background:#f8fafc; border:1px solid #dbe4f0; border-radius:14px; padding:18px; margin:18px 0; }
+    .warning { background:#fff7ed; border-color:#fed7aa; }
+    textarea { width:100%; min-height:160px; border:1px solid #cbd5e1; border-radius:12px; padding:12px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size:.92rem; }
+    a { color:#0f66d0; }
+  </style>
+</head>
+<body>
+<main>
+  <p class="tag">VENDOR-PRICE-INCREASE-READY</p>
+  <h1>Vendor Price Increase Customer Update Checklist for Local Service Businesses</h1>
+  <p><strong>Use this when a vendor, supplier, material, or subcontractor cost changes after a customer has already seen an estimate, approval request, or quote.</strong> The goal is to prevent a rushed text or AI draft from inventing price authority, warranty coverage, ETA, discount, or refund promises.</p>
+
+  <div class="box warning">
+    <strong>STOP AUTOMATION:</strong> do not send a price-increase message until a human confirms the source quote, the original customer agreement, any expiration language, margin/discount authority, warranty impact, and the approved customer-facing option set.
+  </div>
+
+  <h2>1) Copy/paste review fields</h2>
+  <textarea readonly>Customer / job:
+Original estimate or quote ID:
+Original price shown to customer:
+Date original quote was sent:
+Did the original quote include an expiration date? yes/no/source:
+Vendor / supplier / subcontractor:
+New price or fee:
+Source of new price (quote, invoice, email, call note):
+Reason given for price change:
+ETA or schedule impact:
+Warranty / compatibility / scope impact:
+Owner/manager approval required:
+Approved customer options:
+- Option A: keep scope with updated price:
+- Option B: substitute / alternate material:
+- Option C: delay / wait / cancel:
+Maximum approved discount or goodwill credit, if any:
+CRM label: vendor_price_change_review
+Human reviewer:
+Decision deadline:</textarea>
+
+  <h2>2) Customer-safe update text</h2>
+  <p>Use this as a starting point only after the review fields are complete.</p>
+  <textarea readonly>Hi {customer_first_name} — quick update on {job_or_item}. Our supplier updated the cost/availability for {part_material_or_vendor_item} after the original estimate. Before we move forward, we want to be transparent and give you options:
+
+1) Continue with the original item at the updated price of {approved_price},
+2) Review an alternate option: {alternate_option}, or
+3) Pause while we confirm another source/ETA.
+
+Nothing changes on your job until you approve the option you prefer. I can send the updated details for review.</textarea>
+
+  <h2>3) AI prompt for internal drafting</h2>
+  <textarea readonly>You are helping a local service business draft a customer update about a vendor/supplier price change. Use ONLY the facts below. Do not invent warranty coverage, discounts, urgency, supplier blame, diagnosis, ETA, legal rights, or approval history. If any required fact is missing, write NEEDS OWNER REVIEW instead of guessing.
+
+Facts:
+{paste_review_fields}
+
+Draft a short SMS and a slightly longer email. Include the approved options and a clear statement that nothing changes until customer approval. End with a human-review checklist.</textarea>
+
+  <h2>4) Risk flags before sending</h2>
+  <ul>
+    <li>The old quote may have no expiration language or may already be contractually accepted.</li>
+    <li>The new price could alter warranty, compatibility, scope, or permit details.</li>
+    <li>Discounts, credits, refunds, and cancellation terms need owner approval.</li>
+    <li>Supplier ETA claims should be sourced, not guessed.</li>
+    <li>Do not blame a vendor in a way that creates customer trust or legal problems.</li>
+  </ul>
+
+  <h2>5) Where this fits in the Local Lead Rescue System</h2>
+  <p>This checklist supports open-estimate follow-up, quote approval, and customer update workflows in <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=vendor_price_increase_checklist">Local Lead Rescue System</a>. For a lighter starting point, use the <a href="../free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=vendor_price_increase_checklist">free missed-lead recovery checklist</a>.</p>
+</main>
+</body>
+</html>

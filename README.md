@@ -309,3 +309,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Multi-Location Lead Routing Checklist for Local Service Businesses](articles/multi-location-lead-routing-checklist-local-service.html) — multi-location routing card, owner/due-time rules, and STOP AUTOMATION guardrails for local-service leads.
 
 - [Parts Backorder Customer Update Checklist for Local Service Businesses](articles/parts-backorder-customer-update-checklist-local-service.html) — copy/paste parts backorder update fields, customer-safe delay texts, CRM labels, and STOP AUTOMATION guardrails before promising replacement parts, arrival dates, warranty coverage, or completion timelines.
+
+- [Tenant Access Reschedule Checklist for Property Managers](articles/tenant-access-reschedule-checklist-property-managers.html) — copy/paste tenant access reschedule fields, tenant-safe texts, vendor handoff notes, CRM labels, owner-review prompts, and STOP AUTOMATION guardrails.

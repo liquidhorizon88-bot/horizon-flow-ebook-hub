@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Search Knowledge Base Access Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-search-knowledge-base-access-checklist-small-business.html) — copy/paste knowledge-base access card, staff source rules, AI audit prompt, owner review fields, and STOP PUBLISHING guardrails before AI tools use private, stale, or draft internal documents.
 
 - [AI Workflow Post-Launch Review Checklist for Small Businesses](articles/ai-workflow-post-launch-review-checklist-small-business.html) — copy/paste post-launch review card, output-sampling rules, incident notes, keep/fix/pause/expand decision prompt, and STOP AUTOMATION guardrails before expanding an AI workflow.
 - [AI Search Review Snippet Source Checklist for Small Businesses](articles/ai-search-review-snippet-source-checklist-small-business.html) — copy/paste review/testimonial source cards, safe snippet templates, AI audit prompts, and STOP PUBLISHING guardrails before AI search tools invent proof or overstate customer claims.

@@ -7,6 +7,8 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
 
+- [AI Vendor Security Review Checklist for Small Businesses](articles/ai-vendor-security-review-checklist-small-business.html) — copy/paste vendor-security review fields, approved-use boundaries, data-access checks, customer-safe questions, AI review prompt, and STOP AUTOMATION guardrails before giving an AI tool access to business or customer data.
+
 - [Material Substitution Approval Checklist for Local Service Businesses](articles/material-substitution-approval-checklist-local-service.html) — copy/paste substitution approval fields, customer-safe option texts, warranty/price/schedule review prompts, CRM labels, and STOP AUTOMATION guardrails before changing parts, materials, brands, colors, models, or repair methods.
 - [Service Area Exception Request Checklist for Local Service Businesses](articles/service-area-exception-request-checklist-local-service.html) — Copy/paste service-area exception request fields, referral-safe replies, owner review prompts, CRM labels, and STOP AUTOMATION guardrails before accepting out-of-area local-service leads.
 - [Site Access Instructions Checklist for Local Service Businesses](articles/site-access-instructions-checklist-local-service.html) — Copy/paste job-site access fields, gate-code handling rules, parking/entry notes, customer-safe reminder texts, CRM labels, and STOP AUTOMATION guardrails before sending a crew to a hard-to-enter job site.

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Permit Inspection Scheduling Checklist for Local Service Businesses</title>
+  <meta name="description" content="A copy/paste permit and inspection scheduling worksheet for contractors and local-service teams, with safe customer updates, CRM labels, AI prompts, and human-review stop rules.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/permit-inspection-scheduling-checklist-local-service.html">
+  <meta property="og:title" content="Permit Inspection Scheduling Checklist for Local Service Businesses">
+  <meta property="og:description" content="Use this free worksheet before AI or dispatch staff promise permit status, inspection windows, job start dates, or customer scheduling updates.">
+  <link rel="stylesheet" href="../styles.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"HowTo","name":"Permit Inspection Scheduling Checklist for Local Service Businesses","description":"A source-backed permit and inspection scheduling checklist for local-service teams.","url":"https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/permit-inspection-scheduling-checklist-local-service.html"}</script>
+</head>
+<body>
+  <header class="hero">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../free/missed-lead-checklist.html">Free checklist</a><a href="../resources/local-service-lead-response-resource-library.html">Resource library</a></nav>
+    <div class="hero-grid">
+      <section>
+        <p class="eyebrow">Free local-service worksheet • permit/inspection scheduling</p>
+        <h1>Permit Inspection Scheduling Checklist for Local Service Businesses</h1>
+        <p class="lede">Permits, inspections, HOA approvals, and city sign-offs can turn a won job into a string of risky promises. Use this worksheet before a dispatcher, office admin, or AI assistant tells a customer when work will start.</p>
+        <p><strong>PERMIT-INSPECTION-SCHEDULING-READY</strong></p>
+        <a class="button primary" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=permit_inspection_scheduling_free_resource">Start with the free missed-lead checklist</a>
+        <a class="button" href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=permit_inspection_scheduling_product_cta" rel="nofollow sponsored">See Local Lead Rescue System</a>
+      </section>
+      <aside class="proof">
+        <h2>Use when</h2>
+        <ul>
+          <li>A job cannot start until a permit, inspection, HOA, landlord, or utility approval is complete.</li>
+          <li>A customer is asking for a schedule window but the business only has partial approval information.</li>
+          <li>A CSR or AI draft might accidentally invent city timelines, approval status, fees, or crew availability.</li>
+        </ul>
+      </aside>
+    </div>
+  </header>
+  <main>
+    <section class="section">
+      <p class="eyebrow">Copy/paste worksheet</p>
+      <h2>Permit / inspection scheduling card</h2>
+      <div class="checklist">
+        <p><strong>Job / customer:</strong> __________________________</p>
+        <p><strong>Address / unit / access notes:</strong> __________________________</p>
+        <p><strong>Approval type:</strong> permit filed / permit approved / inspection requested / inspection passed / HOA or landlord approval / utility shutoff / other: ________</p>
+        <p><strong>Source of truth:</strong> permit portal link, city email, inspector note, HOA letter, customer document, or manager note: __________________________</p>
+        <p><strong>Known deadline or window:</strong> __________________________</p>
+        <p><strong>What is still missing:</strong> application number / photos / payment / signature / inspection slot / approval letter / corrected scope / other: ________</p>
+        <p><strong>Owner:</strong> dispatcher / estimator / office manager / technician lead / business owner / property manager: ________</p>
+        <p><strong>Next check date and time:</strong> __________________________</p>
+        <p><strong>Customer update allowed?</strong> yes / no / needs owner review</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Customer-safe update templates</h2>
+      <article class="card"><h3>1. Approval pending</h3><p>Thanks for checking in. We are waiting on <strong>[permit / inspection / HOA / landlord / utility]</strong> approval before we can safely confirm the start window. Our next check is <strong>[date/time]</strong>, and we will update you as soon as we have a verified status.</p></article>
+      <article class="card"><h3>2. Missing customer document</h3><p>To keep the job moving, we still need <strong>[specific document/photo/signature]</strong>. Once we receive it, we can update the permit/inspection file and confirm the next scheduling step.</p></article>
+      <article class="card"><h3>3. Inspection requested, not confirmed</h3><p>The inspection request has been submitted, but the inspection window is not confirmed yet. We will not promise a crew date until that window is verified.</p></article>
+      <article class="card"><h3>4. Approval received, schedule review needed</h3><p>Approval is now on file. Our scheduling team is checking crew availability and any material/site-access requirements before confirming the start time.</p></article>
+    </section>
+
+    <section class="section">
+      <h2>AI prompt for a safe dispatch update</h2>
+      <pre><code>You are helping a local-service business draft a customer update about permit/inspection scheduling.
+Use only the verified facts below. Do not invent approval status, permit fees, city timelines, inspection windows, warranty coverage, job start dates, crew availability, or emergency priority.
+
+Verified facts:
+- Customer/job:
+- Approval type:
+- Current verified status:
+- Source of truth:
+- Missing item, if any:
+- Next check date/time:
+- Human owner:
+- Channel allowed: SMS / email / phone / platform message
+
+Draft a short customer-safe update. Include one next step and one honest timing boundary. If any required fact is missing, output: STOP AUTOMATION — NEEDS OWNER REVIEW.</code></pre>
+    </section>
+
+    <section class="section">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li><strong>STOP AUTOMATION:</strong> approval status is unknown, contradicted, or only verbally reported.</li>
+        <li><strong>NEEDS OWNER REVIEW:</strong> the message mentions permit fees, legal/code requirements, warranty, insurance, emergency priority, refund, cancellation, or schedule penalties.</li>
+        <li>Do not invent city, inspector, HOA, landlord, utility, or customer approval history.</li>
+        <li>Do not promise a job start date until approval status, site access, materials, and crew capacity are verified.</li>
+        <li>Use CRM labels such as <code>PERMIT-HOLD</code>, <code>INSPECTION-REQUESTED</code>, <code>APPROVAL-RECEIVED</code>, <code>NEEDS-CUSTOMER-DOC</code>, and <code>OWNER-REVIEW</code>.</li>
+      </ul>
+    </section>
+
+    <section class="section cta">
+      <h2>Turn approval holds into safer follow-up</h2>
+      <p>This free worksheet is a sample from Horizon Flow's practical lead-response systems. For more missed-lead, estimate, dispatch, and follow-up workflows, see <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=permit_inspection_scheduling_product_cta" rel="nofollow sponsored">Local Lead Rescue System</a>.</p>
+    </section>
+  </main>
+</body>
+</html>

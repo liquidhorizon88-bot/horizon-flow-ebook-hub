@@ -8,6 +8,7 @@ Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
 
+- [Permit Inspection Scheduling Checklist for Local Service Businesses](articles/permit-inspection-scheduling-checklist-local-service.html) — copy/paste permit/inspection scheduling fields, customer-safe update texts, CRM labels, owner review prompts, and STOP AUTOMATION guardrails before promising inspection windows, permit status, or job start dates.
 - [AI Vendor Security Review Checklist for Small Businesses](articles/ai-vendor-security-review-checklist-small-business.html) — copy/paste vendor-security review fields, approved-use boundaries, data-access checks, customer-safe questions, AI review prompt, and STOP AUTOMATION guardrails before giving an AI tool access to business or customer data.
 
 - [Material Substitution Approval Checklist for Local Service Businesses](articles/material-substitution-approval-checklist-local-service.html) — copy/paste substitution approval fields, customer-safe option texts, warranty/price/schedule review prompts, CRM labels, and STOP AUTOMATION guardrails before changing parts, materials, brands, colors, models, or repair methods.

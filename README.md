@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Customer Data Deletion Request Checklist for Small Businesses](articles/ai-customer-data-deletion-request-checklist-small-business.html) — copy/paste customer-data deletion request record, AI/vendor cleanup checks, customer-safe acknowledgement, owner-review prompt, and STOP AUTOMATION guardrails before promising deletion, correction, retention, privacy, or legal outcomes.
 - [AI Training Data Opt-Out Checklist for Small Businesses](articles/ai-training-data-opt-out-checklist-small-business.html) — copy/paste training-data opt-out decision card, vendor setting checks, staff note, AI review prompt, and STOP AUTOMATION guardrails before small-business teams use customer or confidential data in AI tools.
 - [AI Model Change Review Checklist for Small Businesses](articles/ai-model-change-review-checklist-small-business.html) — copy/paste model-change review fields, before/after output tests, customer-safe rollback wording, owner-review prompts, and STOP AUTOMATION guardrails before changing an AI model, provider, prompt setting, or tool version.
 - [AI Customer Consent Record Checklist for Small Businesses](articles/ai-customer-consent-record-checklist-small-business.html) — copy/paste consent record fields, customer-safe permission wording, owner-review prompts, and STOP AUTOMATION guardrails before AI uses customer data, recordings, reviews, photos, or testimonials.

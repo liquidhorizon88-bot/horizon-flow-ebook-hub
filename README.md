@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Chargeback Evidence Checklist for Local Service Businesses](articles/chargeback-evidence-checklist-local-service.html) — copy/paste chargeback evidence fields, job-proof checklist, customer-safe payment response text, CRM labels, and STOP AUTOMATION guardrails before disputing or responding to card chargebacks.
 - [Technician No-Show Recovery Checklist for Local Service Businesses](articles/technician-no-show-recovery-checklist-local-service.html) — copy/paste technician no-show recovery fields, customer-safe apology texts, reschedule options, CRM labels, and STOP AUTOMATION guardrails before promising arrival times, discounts, or refunds.
 - [Supplier Quote Approval Checklist for Local Service Businesses](articles/supplier-quote-approval-checklist-local-service.html) — copy/paste supplier quote approval fields, price/scope/warranty checks, customer-safe option text, CRM labels, and STOP AUTOMATION guardrails before accepting vendor quotes or passing price changes to a customer.
 - [Customer Refund Exception Approval Checklist for Small Businesses](articles/customer-refund-exception-approval-checklist-small-business.html) — copy/paste refund exception approval card, source-proof fields, customer-safe reply templates, AI review prompt, and STOP AUTOMATION guardrails before promising refunds, credits, replacements, fee waivers, chargebacks, or policy exceptions.

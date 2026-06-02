@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Model Change Review Checklist for Small Businesses</title>
+  <meta name="description" content="Copy/paste AI model change review checklist for small businesses: model/provider changes, prompt settings, output tests, rollback decisions, and owner-review guardrails.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-model-change-review-checklist-small-business.html">
+  <meta property="og:title" content="AI Model Change Review Checklist for Small Businesses">
+  <meta property="og:description" content="Use this worksheet before changing the model, provider, temperature, system prompt, retrieval source, or automation setting behind a small-business AI workflow.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-model-change-review-checklist-small-business.html">
+  <link rel="stylesheet" href="../styles.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"AI Model Change Review Checklist for Small Businesses","description":"Copy/paste model-change review fields and stop rules for small-business AI workflows.","author":{"@type":"Organization","name":"Horizon Flow"},"mainEntityOfPage":"https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-model-change-review-checklist-small-business.html"}</script>
+</head>
+<body>
+  <header class="hero compact">
+    <nav><strong>Horizon Flow</strong><a href="../">Catalog</a><a href="ai-workflow-test-case-checklist-small-business.html">Test cases</a><a href="ai-workflow-post-launch-review-checklist-small-business.html">Post-launch review</a><a href="ai-output-correction-log-small-business.html">Correction log</a></nav>
+    <p class="eyebrow">Free worksheet • Small Business AI Profit Kit</p>
+    <h1>AI Model Change Review Checklist for Small Businesses</h1>
+    <p class="lede">Use this worksheet before a small business changes the AI model, provider, temperature, prompt version, retrieval source, automation trigger, or connected tool behind a workflow that drafts customer replies, summarizes records, updates CRM fields, or produces owner-facing decisions.</p>
+    <p><strong>Marker:</strong> AI-MODEL-CHANGE-REVIEW-READY</p>
+    <p><a class="button primary" href="../free/ai-prompt-governance-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=ai-model-change-review-checklist-small-business">Use the free AI prompt governance checklist</a> <a class="button" href="https://horizonflow.gumroad.com/l/small-business-ai-profit-kit?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=ai-model-change-review-checklist-small-business" rel="nofollow sponsored">See the Small Business AI Profit Kit</a></p>
+  </header>
+  <main class="section article">
+    <section>
+      <h2>Why model changes need a review card</h2>
+      <p>An AI workflow can behave differently after a vendor silently updates a model, a team switches providers, a prompt is rewritten, retrieval sources change, or temperature/settings are adjusted. The change may look small in the tool UI but still alter tone, facts, formatting, escalation behavior, privacy handling, or customer promises.</p>
+      <div class="note"><strong>STOP AUTOMATION:</strong> do not let AI approve, deploy, expand, or hide a model/provider/settings change. A named human owner must compare before/after outputs, verify source facts, review customer-impact risks, and keep a rollback path before the workflow runs on real customer or business records.</div>
+    </section>
+    <section>
+      <h2>Model-change review card</h2>
+      <table>
+        <thead><tr><th>Field</th><th>What to capture</th><th>Owner review rule</th></tr></thead>
+        <tbody>
+          <tr><td>Workflow affected</td><td>Workflow name, owner, tools connected, customer/internal use, launch date, and where outputs are used.</td><td>Review only one workflow at a time; do not approve a blanket model switch across the business.</td></tr>
+          <tr><td>Change details</td><td>Old model/provider/version/settings, new model/provider/version/settings, prompt version, retrieval/source changes, and date changed.</td><td>Record the exact change before testing; vague “new AI version” notes are not enough.</td></tr>
+          <tr><td>Before/after test set</td><td>At least 5 real or realistic cases: normal, edge, missing-data, sensitive-data, and customer-facing examples.</td><td>Use approved sample data only. Do not paste private customer records unless the owner has approved that use.</td></tr>
+          <tr><td>Output comparison</td><td>Facts, tone, formatting, required disclaimers, escalation behavior, CRM labels, and missing-data handling.</td><td>Any invented price, deadline, policy, approval, diagnosis, refund, guarantee, or customer history triggers STOP AUTOMATION.</td></tr>
+          <tr><td>Customer/business impact</td><td>Who could see the output, what could go wrong, whether review workload changes, and whether staff need updated instructions.</td><td>Customer-facing changes need human review and a rollback message before going live.</td></tr>
+          <tr><td>Decision and rollback</td><td>Keep, fix, pause, revert, or pilot-only decision; rollback owner; correction notes; next review date.</td><td>No production rollout without a named owner and rollback path.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    <section>
+      <h2>Copy/paste test cases</h2>
+      <pre><code>Normal case: Use approved source facts to draft [workflow output]. Confirm the new model preserves required tone, fields, disclaimers, and review labels.</code></pre>
+      <pre><code>Missing-data case: Source facts are incomplete for [price/date/policy/approval/customer detail]. The AI must ask for owner review and must not invent the missing fact.</code></pre>
+      <pre><code>Sensitive-data case: The input includes [customer/private/internal detail]. The AI must avoid exposing unnecessary private data, avoid new assumptions, and route to [owner/reviewer] before customer-facing use.</code></pre>
+      <pre><code>Rollback note: We paused/reverted [workflow/model change] because [issue]. Use the previous approved prompt/model until [owner] verifies corrected outputs on [test set].</code></pre>
+    </section>
+    <section>
+      <h2>AI review prompt</h2>
+      <div class="prompt"><pre><code>Act as a cautious small-business AI workflow QA reviewer. Compare the old-output notes and new-output notes below. Use only verified source facts. Do not invent model capabilities, vendor claims, customer history, prices, policies, approvals, legal advice, or performance results. Return: 1) behavior changes, 2) fact/source risks, 3) customer-impact risks, 4) review-workload changes, 5) missing tests, and 6) a keep/fix/pause/revert recommendation with STOP AUTOMATION if the model change is not ready.
+
+Workflow:
+Old model/provider/settings:
+New model/provider/settings:
+Prompt/retrieval/source changes:
+Approved source facts:
+Before-output notes:
+After-output notes:
+Known incidents/corrections:
+Rollback owner:</code></pre></div>
+    </section>
+    <section>
+      <h2>Fast QA before rollout</h2>
+      <ul>
+        <li>Run the same test cases through old and new settings before trusting the new output.</li>
+        <li>Check missing-data behavior; the model should ask for review instead of filling gaps.</li>
+        <li>Verify customer-facing wording for tone, disclaimers, fees, policies, timing, warranties, and escalation paths.</li>
+        <li>Keep a correction log for any output that changed in a risky way.</li>
+        <li>Do a pilot with human review before expanding the model change to every user or workflow.</li>
+      </ul>
+      <p>Related free assets: <a href="ai-workflow-test-case-checklist-small-business.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=ai-model-change-review-checklist-small-business-related-test-cases">AI Workflow Test Case Checklist</a>, <a href="ai-workflow-post-launch-review-checklist-small-business.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=ai-model-change-review-checklist-small-business-related-post-launch">AI Workflow Post-Launch Review Checklist</a>, and <a href="ai-output-correction-log-small-business.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=ai-model-change-review-checklist-small-business-related-corrections">AI Output Correction Log</a>.</p>
+    </section>
+    <section class="note">
+      <p><strong>Disclosure:</strong> Horizon Flow is Andrew Burton's digital product catalog. This worksheet is useful without purchase; product links are labeled and UTM-tagged.</p>
+    </section>
+  </main>
+</body>
+</html>

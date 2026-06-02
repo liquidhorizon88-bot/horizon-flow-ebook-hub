@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Search Holiday Hours Exception Checklist for Small Businesses](articles/ai-search-holiday-hours-exception-checklist-small-business.html) — copy/paste holiday/special-hours source card, safe public wording, AI-search audit prompt, rollback date, and STOP PUBLISHING guardrails before AI tools invent hours, closures, emergency availability, or booking windows.
 - [AI Chatbot Handoff Failure Log for Small Businesses](articles/ai-chatbot-handoff-failure-log-small-business.html) — copy/paste chatbot handoff failure log, customer-impact fields, owner review prompts, safe apology/update snippets, and STOP AUTOMATION guardrails before AI chatbot mistakes become customer promises.
 - [Storm Damage Lead Intake Checklist for Local Service Businesses](articles/storm-damage-lead-intake-checklist-local-service.html) — copy/paste storm damage lead intake fields, safety/insurance/revisit guardrails, customer-safe first replies, CRM labels, and STOP AUTOMATION rules before promising emergency response, diagnosis, coverage, or availability.
 - [AI Search Reputation Correction Log for Small Businesses](articles/ai-search-reputation-correction-log-small-business.html) — copy/paste reputation correction log, wrong-claim proof fields, public-source repair steps, response templates, AI audit prompt, and STOP PUBLISHING guardrails before trying to correct AI-search reputation damage.

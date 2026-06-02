@@ -312,3 +312,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Parts Backorder Customer Update Checklist for Local Service Businesses](articles/parts-backorder-customer-update-checklist-local-service.html) — copy/paste parts backorder update fields, customer-safe delay texts, CRM labels, and STOP AUTOMATION guardrails before promising replacement parts, arrival dates, warranty coverage, or completion timelines.
 
 - [Tenant Access Reschedule Checklist for Property Managers](articles/tenant-access-reschedule-checklist-property-managers.html) — copy/paste tenant access reschedule fields, tenant-safe texts, vendor handoff notes, CRM labels, owner-review prompts, and STOP AUTOMATION guardrails.
+
+- [AI Search Answer Correction Request Checklist for Small Businesses](articles/ai-search-answer-correction-request-checklist-small-business.html) — source-proof correction request worksheet for wrong AI-search answers.

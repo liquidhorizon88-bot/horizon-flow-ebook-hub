@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Support Macro Approval Checklist for Small Businesses](articles/ai-support-macro-approval-checklist-small-business.html) — Copy/paste support macro approval fields, policy/source checks, escalation triggers, customer-safe snippets, AI review prompt, and STOP AUTOMATION guardrails before saving or sending AI-written support replies.
 - [AI Sales Proposal Draft Review Checklist for Small Businesses](articles/ai-sales-proposal-draft-review-checklist-small-business.html) — copy/paste proposal review fields, source-proof checks, pricing/timeline guardrails, customer-safe snippets, AI review prompt, and STOP AUTOMATION rules before AI-written proposals reach prospects.
 - [Vendor Price Increase Customer Update Checklist for Local Service Businesses](articles/vendor-price-increase-customer-update-checklist-local-service.html) — copy/paste vendor price-increase review fields, customer-safe update texts, CRM labels, owner-approval prompts, and STOP AUTOMATION guardrails before passing supplier/material cost changes to customers.
 - [AI Search PDF Download Review Checklist for Small Businesses](articles/ai-search-pdf-download-review-checklist-small-business.html) — copy/paste PDF/download source-review fields, owner prompts, AI audit questions, and STOP PUBLISHING guardrails before answer engines quote stale brochures, menus, price sheets, lead magnets, or policy downloads.

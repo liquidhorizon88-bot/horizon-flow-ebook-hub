@@ -1,3 +1,4 @@
+- [AI Workflow Test Case Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-test-case-checklist-small-business.html) — copy/paste AI workflow test cases, expected outputs, edge-case failures, owner review prompts, and STOP AUTOMATION guardrails before rollout.
 - [AI Search Financing Page Checklist for Local Service Businesses](articles/ai-search-financing-page-checklist-local-service.html) — copy/paste financing-page source-of-truth card, approved-link checks, eligibility wording, customer-safe handoff text, AI audit prompt, and STOP PUBLISHING guardrails before AI search tools invent financing terms.
 # Horizon Flow Ebook Hub
 

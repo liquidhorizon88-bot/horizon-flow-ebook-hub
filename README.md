@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Emergency Maintenance Priority Checklist for Property Managers](articles/emergency-maintenance-priority-checklist-property-managers.html) — copy/paste emergency maintenance priority fields, resident-safe acknowledgements, vendor/manager routing prompts, CRM labels, and STOP AUTOMATION guardrails before property managers promise urgency, entry, repairs, fees, or safety outcomes.
 - [AI Search Support Response Time Page Checklist for Small Businesses](articles/ai-search-support-response-time-checklist-small-business.html) — copy/paste support response-time, SLA, callback-window, emergency-priority, escalation, and owner-review source cards before AI tools invent response promises.
 - [AI Search Tax, Surcharge, and Fee Page Checklist for Small Businesses](articles/ai-search-tax-surcharge-fee-checklist-small-business.html) — copy/paste tax, surcharge, convenience-fee, service-fee, delivery-fee, and checkout-disclosure source cards, safe public wording, AI audit prompt, and STOP PUBLISHING guardrails before AI tools invent extra charges.
 - [AI Search Subscription and Renewal Page Checklist for Small Businesses](articles/ai-search-subscription-renewal-page-checklist-small-business.html) — copy/paste subscription, renewal, cancellation, billing, auto-renewal, plan-change, and owner-review worksheet before AI tools summarize recurring-service promises.

@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Search Support Response Time Page Checklist for Small Businesses](articles/ai-search-support-response-time-checklist-small-business.html) — copy/paste support response-time, SLA, callback-window, emergency-priority, escalation, and owner-review source cards before AI tools invent response promises.
 - [AI Search Tax, Surcharge, and Fee Page Checklist for Small Businesses](articles/ai-search-tax-surcharge-fee-checklist-small-business.html) — copy/paste tax, surcharge, convenience-fee, service-fee, delivery-fee, and checkout-disclosure source cards, safe public wording, AI audit prompt, and STOP PUBLISHING guardrails before AI tools invent extra charges.
 - [AI Search Subscription and Renewal Page Checklist for Small Businesses](articles/ai-search-subscription-renewal-page-checklist-small-business.html) — copy/paste subscription, renewal, cancellation, billing, auto-renewal, plan-change, and owner-review worksheet before AI tools summarize recurring-service promises.
 - [AI Search Quote and Estimate Page Source Checklist for Local Service Businesses](articles/ai-search-quote-estimate-page-source-checklist-local-service.html) — copy/paste quote/estimate page source cards, scope/price/expiration proof fields, customer-safe wording, AI audit prompt, and STOP PUBLISHING guardrails before AI search tools invent quote promises.

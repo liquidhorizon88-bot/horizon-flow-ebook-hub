@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "file": "/home/hermes/digital-products/marketing-agent/published/horizon-flow-ebook-hub/assets/which-ebook-comparison/which-horizon-flow-ebook-social-card-1200x630.png",
+      "width": 1200,
+      "height": 630,
+      "bytes": 187700
+    },
+    {
+      "file": "/home/hermes/digital-products/marketing-agent/published/horizon-flow-ebook-hub/assets/which-ebook-comparison/which-horizon-flow-ebook-square-1080.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 227033
+    }
+  ],
+  "markers": [
+    "WHICH-EBBOOK-VISUAL-COMPARISON-READY",
+    "which-horizon-flow-ebook-social-card-1200x630.png"
+  ]
+}

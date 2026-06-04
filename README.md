@@ -7,6 +7,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [AI Search Installation Instructions Checklist for Small Businesses](articles/ai-search-installation-instructions-checklist-small-business.html) — copy/paste installation-instruction source cards, approved setup/use wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent assembly, installation, compatibility, safety, warranty, or professional-service claims.
 - [AI Search Product Care Instructions Checklist for Small Businesses](articles/ai-search-product-care-instructions-checklist-small-business.html) — Copy/paste product-care instruction source cards, approved use/cleaning wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent care, cleaning, handling, storage, safety, or warranty-voiding advice.
 - [AI Search Environmental and Sustainability Claim Checklist for Small Businesses](articles/ai-search-environmental-sustainability-claim-checklist-small-business.html) — environmental claim source cards, approved wording, AI audit prompts, and STOP PUBLISHING guardrails.
 - [AI Search Safety Data Sheet Source Checklist for Small Businesses](articles/ai-search-safety-data-sheet-source-checklist-small-business.html) — Copy/paste SDS source cards, approved hazard wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent chemical safety, storage, PPE, disposal, first-aid, or compatibility advice.

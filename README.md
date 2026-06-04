@@ -365,3 +365,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [Tenant Access Reschedule Checklist for Property Managers](articles/tenant-access-reschedule-checklist-property-managers.html) — copy/paste tenant access reschedule fields, tenant-safe texts, vendor handoff notes, CRM labels, owner-review prompts, and STOP AUTOMATION guardrails.
 
 - [AI Search Answer Correction Request Checklist for Small Businesses](articles/ai-search-answer-correction-request-checklist-small-business.html) — source-proof correction request worksheet for wrong AI-search answers.
+
+- [AI Lead Scoring Review Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-scoring-review-checklist-small-business.html) — copy/paste lead-score review fields, source-proof checks, sales-safe next-step prompts, owner review labels, and STOP AUTOMATION guardrails before AI ranks, routes, or deprioritizes leads.

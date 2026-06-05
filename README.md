@@ -5,6 +5,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Owner Distribution Hold and Reserve Change Checklist for Property Managers](articles/owner-distribution-hold-reserve-change-checklist-property-managers.html) — Copy/paste owner-distribution hold, reserve-change, invoice/source, resident-impact, accounting-review, owner-safe update, CRM-label, and STOP AUTOMATION guardrails before property managers answer owner payout or reserve questions.
 - [Resident Returned Payment and NSF Checklist for Property Managers](articles/resident-returned-payment-nsf-checklist-property-managers.html) — Copy/paste returned-payment, NSF, ACH/card failure, ledger/source, resident-safe acknowledgement, accounting review, CRM-label, and STOP AUTOMATION guardrails before property managers answer failed rent payment questions.
 - [Resident Partial Payment Posting Checklist for Property Managers](articles/resident-partial-payment-posting-checklist-property-managers.html) — Copy/paste partial-payment posting, split-payment, ledger/source, resident-safe receipt, accounting review, CRM-label, and STOP AUTOMATION guardrails before property managers or AI tools answer partial rent payment questions.
 - [Resident Unauthorized Fee and Charge Dispute Checklist for Property Managers](articles/resident-unauthorized-fee-charge-dispute-checklist-property-managers.html) — resident charge-dispute source card with STOP AUTOMATION guardrails.

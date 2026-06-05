@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resident Contact Preference and Opt-Out Checklist for Property Managers</title>
+  <meta name="description" content="A copy/paste contact-preference and opt-out source card for property managers before staff or AI tools text, email, call, or disclose resident update details.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-contact-preference-opt-out-checklist-property-managers.html">
+  <meta property="og:title" content="Resident Contact Preference and Opt-Out Checklist for Property Managers">
+  <meta property="og:description" content="Verify contact channel, opt-in/opt-out status, source proof, privacy limits, and STOP AUTOMATION triggers before AI-assisted resident replies use phone or email preferences.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-contact-preference-opt-out-checklist-property-managers.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero compact">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../free/missed-lead-checklist.html">Free lead checklist</a><a href="../resources/which-horizon-flow-ebook.html">Choose an ebook</a></nav>
+    <section>
+      <p class="eyebrow">Property management • resident services • contact consent</p>
+      <h1>Resident Contact Preference and Opt-Out Checklist for Property Managers</h1>
+      <p class="lede">Use this worksheet before a leasing assistant, maintenance dispatcher, resident-services team, or AI workflow calls, texts, emails, or routes a resident update. It helps confirm which channel is allowed, whether the resident opted out, and when a manager must review the message before anything is sent.</p>
+      <p><strong>RESIDENT-CONTACT-PREFERENCE-OPT-OUT-READY</strong></p>
+    </section>
+  </header>
+  <main class="content">
+    <section class="card">
+      <h2>When to use this</h2>
+      <p>Use this source card when a resident changes a phone number or email address, asks not to be texted, prefers portal-only updates, wants a caregiver copied, reports a wrong-number text, asks for maintenance updates by a different channel, or when an AI-assisted workflow is about to choose the contact method automatically.</p>
+      <p><strong>Human-review rule:</strong> contact preference is not blanket consent. A property manager should verify the source record, opt-in/opt-out status, lease/policy language, emergency exceptions, privacy limits, and message type before using a channel or involving a third party.</p>
+    </section>
+
+    <section class="card">
+      <h2>Copy/paste contact-preference source card</h2>
+      <table>
+        <thead><tr><th>Field</th><th>What to verify</th><th>Example / options</th></tr></thead>
+        <tbody>
+          <tr><td>Resident and unit</td><td>Resident name, unit, account/lease ID, and whether the requester is the resident of record or an approved staff member.</td><td>[Resident], [Unit], [CRM/lease ID]</td></tr>
+          <tr><td>Request type</td><td>Phone update, email update, text opt-in, text opt-out, portal-only preference, do-not-call, caregiver copy, wrong-number cleanup, language/accessibility preference.</td><td>Text opt-out + email-only updates</td></tr>
+          <tr><td>Source of request</td><td>Resident portal, signed form, email from address on file, in-office ID check, verified callback, SMS STOP message, CRM consent record, manager note.</td><td>Portal message from resident login</td></tr>
+          <tr><td>Allowed channels</td><td>Portal, email, phone call, SMS, certified/mail notice, emergency-only phone, maintenance-only text, no third-party contact, or manager-approved exception.</td><td>Email + portal; no SMS</td></tr>
+          <tr><td>Opt-out / consent status</td><td>Whether SMS/call/email consent is present, revoked, unknown, limited to one topic, or needs a fresh source record.</td><td>SMS opt-out recorded on [date]</td></tr>
+          <tr><td>Message type</td><td>Maintenance scheduling, rent/account, leasing, legal notice, emergency/safety, marketing/community update, package/access, survey/review request.</td><td>Maintenance scheduling only</td></tr>
+          <tr><td>Privacy / third-party limit</td><td>Whether any caregiver, roommate, owner, vendor, emergency contact, or relative can receive details and exactly what details are allowed.</td><td>No third-party disclosure without manager review</td></tr>
+          <tr><td>CRM labels</td><td>Labels that future staff or AI tools must see before replying.</td><td>contact_preference_updated, sms_opt_out, portal_only, manager_review_required</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <h2>Resident-safe reply snippets</h2>
+      <ul>
+        <li><strong>Preference update received:</strong> “Thanks — we received your contact-preference update. Our team will verify the record before using this channel for resident or maintenance updates.”</li>
+        <li><strong>Text opt-out acknowledged:</strong> “We have noted your SMS opt-out request. Future non-emergency updates should use [approved channel] once the record is verified.”</li>
+        <li><strong>Need verified channel:</strong> “To protect your account, please submit this contact change through [approved channel] or contact the office directly so we can verify the update before changing the record.”</li>
+        <li><strong>Third-party boundary:</strong> “We can note the preferred contact path, but lease, payment, account, complaint, or private maintenance details still require resident or manager-approved authorization.”</li>
+      </ul>
+    </section>
+
+    <section class="card warning">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li>STOP AUTOMATION if a resident has opted out of SMS/calls or the consent status is unknown.</li>
+        <li>STOP AUTOMATION if AI is about to choose a contact channel without reading the latest CRM consent/preference label.</li>
+        <li>STOP AUTOMATION if the request could expose rent, lease, legal, medical, complaint, account, safety, or maintenance details to an unapproved third party.</li>
+        <li>STOP AUTOMATION if the message mentions harassment, domestic conflict, accessibility/accommodation, law enforcement, welfare check, emergency access, or legal notice.</li>
+        <li>STOP AUTOMATION if a vendor, owner, roommate, emergency contact, or caregiver asks to use a resident's phone/email for convenience without verified permission scope.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>AI prompt for internal review</h2>
+      <pre><code>You are helping a property-management team review a resident contact-preference or opt-out update.
+Use only the fields below. Do not invent consent, opt-in status, channel permission, third-party authority, urgency, lease terms, legal notice rules, account details, or emergency exceptions.
+
+Resident/unit: [paste]
+Request type: [paste]
+Source/proof: [paste]
+Allowed channels: [paste]
+Opt-out/consent status: [paste]
+Message type: [paste]
+Privacy/third-party limits: [paste]
+CRM labels/history: [paste]
+
+Return:
+1. Safe one-sentence resident acknowledgement.
+2. Missing source or consent checks.
+3. Allowed contact channel, if any.
+4. STOP AUTOMATION triggers.
+5. Manager/legal/privacy review notes.</code></pre>
+    </section>
+
+    <section class="card cta">
+      <h2>Use this inside a larger resident-response system</h2>
+      <p>This checklist is a free companion resource from Horizon Flow. The paid <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=resident_contact_preference_opt_out&utm_content=resident-contact-preference-paid-cta" rel="nofollow sponsored">Local Lead Rescue System</a> expands this style of source-card workflow into missed-call, resident-message, maintenance, quote follow-up, and CRM handoff templates with human-review guardrails.</p>
+      <p>Start with the <a href="../free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=resident_contact_preference_opt_out&utm_content=resident-contact-preference-free-checklist">free missed-lead checklist</a> or browse the <a href="../index.html?utm_source=github_pages&utm_medium=free&utm_campaign=resident_contact_preference_opt_out&utm_content=resident-contact-preference-hub">Horizon Flow resource hub</a>.</p>
+    </section>
+  </main>
+</body>
+</html>

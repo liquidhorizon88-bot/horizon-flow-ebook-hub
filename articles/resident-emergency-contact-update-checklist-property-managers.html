@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resident Emergency Contact Update Checklist for Property Managers</title>
+  <meta name="description" content="A copy/paste emergency-contact update worksheet for property managers, resident-services teams, and AI-assisted maintenance workflows.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-emergency-contact-update-checklist-property-managers.html">
+  <meta property="og:title" content="Resident Emergency Contact Update Checklist for Property Managers">
+  <meta property="og:description" content="Verify resident emergency contacts, contact permissions, source records, privacy limits, and human-review triggers before AI-assisted replies use emergency-contact details.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-emergency-contact-update-checklist-property-managers.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero compact">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../free/missed-lead-checklist.html">Free lead checklist</a><a href="../resources/which-horizon-flow-ebook.html">Choose an ebook</a></nav>
+    <section>
+      <p class="eyebrow">Property management • resident services • contact safety</p>
+      <h1>Resident Emergency Contact Update Checklist for Property Managers</h1>
+      <p class="lede">Use this worksheet before AI, an after-hours coordinator, leasing assistant, maintenance dispatcher, or resident-services team relies on emergency-contact details. It helps separate routine contact updates from true safety escalation and keeps private resident information out of unsupported automated replies.</p>
+      <p><strong>RESIDENT-EMERGENCY-CONTACT-CARD-READY</strong></p>
+    </section>
+  </header>
+  <main class="content">
+    <section class="card">
+      <h2>When to use this</h2>
+      <p>Use this source card when a resident changes an emergency contact, asks who is on file, wants a relative or caregiver added, reports a disconnected phone, asks staff to contact someone else about maintenance access, or when a vendor/manager needs to know whether a third party can receive updates.</p>
+      <p><strong>Human-review rule:</strong> emergency contacts are not automatic permission to discuss rent, lease, legal, medical, payment, complaint, or maintenance details. A property manager should verify policy, lease language, resident consent, privacy rules, and urgency before using or sharing contact information.</p>
+    </section>
+
+    <section class="card">
+      <h2>Copy/paste emergency-contact source card</h2>
+      <table>
+        <thead><tr><th>Field</th><th>What to verify</th><th>Example / options</th></tr></thead>
+        <tbody>
+          <tr><td>Resident and unit</td><td>Resident name, unit, account/lease ID, and whether the requester is the resident of record.</td><td>[Resident], [Unit], [Lease/CRM ID]</td></tr>
+          <tr><td>Request type</td><td>Add, remove, replace, confirm, correct typo, update phone/email, temporary contact, caregiver/authorized person, emergency-only note.</td><td>Replace emergency contact phone number</td></tr>
+          <tr><td>Source of request</td><td>Resident portal, signed form, email from address on file, in-office ID check, phone call verified by callback, lease document, manager note.</td><td>Portal request from resident login</td></tr>
+          <tr><td>Contact details</td><td>Name, relationship, phone, email, address if needed, preferred language, best time, and whether the contact is temporary or permanent.</td><td>[Name], [relationship], [phone], [email]</td></tr>
+          <tr><td>Permission scope</td><td>Emergency only, access coordination only, maintenance status only, package/entry only, no rent/lease/account details, or manager-approved broader authorization.</td><td>Maintenance access coordination only</td></tr>
+          <tr><td>Identity/privacy check</td><td>Whether the resident's identity and consent were verified before exposing or changing contact details.</td><td>Verified via portal + manager review</td></tr>
+          <tr><td>Urgency / safety trigger</td><td>Is this a routine record update, welfare/safety concern, access emergency, lockout, leak/fire/utility issue, or medical/law-enforcement sensitive matter?</td><td>Routine update; no emergency claim</td></tr>
+          <tr><td>CRM label</td><td>Label the record so future AI or staff know the limits.</td><td>emergency_contact_updated, third_party_limited_scope, manager_review_required</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <h2>Resident-safe confirmation snippets</h2>
+      <ul>
+        <li><strong>Routine update received:</strong> “Thanks — we received your emergency-contact update request for [contact name]. Our team will verify the record before using it for any resident or maintenance communication.”</li>
+        <li><strong>Need source proof:</strong> “To keep your account private, please submit this update through [approved channel] or contact the office directly so we can verify the change before editing the record.”</li>
+        <li><strong>Limited-scope contact:</strong> “We can note [contact name] for [specific purpose], but lease/account details still need to be handled through the resident or an approved manager-reviewed authorization.”</li>
+        <li><strong>Emergency/safety boundary:</strong> “If this is an immediate safety, medical, fire, police, or utility emergency, please contact the appropriate emergency service first, then update the property team through the official channel.”</li>
+      </ul>
+    </section>
+
+    <section class="card warning">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li>STOP AUTOMATION if the requester is not verified as the resident, authorized agent, or approved staff member.</li>
+        <li>STOP AUTOMATION if the message asks staff to reveal another person's phone, email, account status, payment, complaint, lease, medical, or legal details.</li>
+        <li>STOP AUTOMATION if a contact update appears tied to domestic conflict, harassment, lockout, elder/medical issue, law enforcement, restraining order, accessibility/accommodation, or emergency welfare concern.</li>
+        <li>STOP AUTOMATION if AI is about to call, text, email, or disclose details to a third party without a verified permission scope.</li>
+        <li>STOP AUTOMATION if a vendor, owner, or resident asks to use emergency-contact details for convenience instead of an approved property-management process.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>AI prompt for internal review</h2>
+      <pre><code>You are helping a property-management team review an emergency-contact update request.
+Use only the fields below. Do not invent consent, relationship, authority, urgency, lease terms, medical facts, account status, rent/payment details, legal advice, or contact permissions.
+
+Resident/unit: [paste]
+Request type: [paste]
+Source/proof: [paste]
+Contact details: [paste]
+Permission scope: [paste]
+Urgency/safety notes: [paste]
+CRM labels/history: [paste]
+
+Return:
+1. Safe one-sentence resident acknowledgement.
+2. Missing proof or identity checks.
+3. Allowed use of the contact, if any.
+4. STOP AUTOMATION triggers.
+5. Manager/legal/privacy review notes.</code></pre>
+    </section>
+
+    <section class="card cta">
+      <h2>Use this inside a larger resident-response system</h2>
+      <p>This checklist is a free companion resource from Horizon Flow. The paid <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=resident-emergency-contact-paid-cta" rel="nofollow sponsored">Local Lead Rescue System</a> expands this style of source-card workflow into missed-call, resident-message, maintenance, quote follow-up, and CRM handoff templates with human-review guardrails.</p>
+      <p>Start with the <a href="../free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=resident-emergency-contact-free-checklist">free missed-lead checklist</a> or browse the <a href="../index.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=resident-emergency-contact-hub">Horizon Flow resource hub</a>.</p>
+    </section>
+  </main>
+</body>
+</html>

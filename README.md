@@ -5,6 +5,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Resident Emergency Contact Update Checklist for Property Managers](articles/resident-emergency-contact-update-checklist-property-managers.html) — copy/paste emergency-contact update fields, resident-safe confirmations, consent/source checks, CRM labels, and STOP AUTOMATION guardrails before property managers or AI tools use resident emergency contacts for maintenance, access, safety, or account updates.
 - [Maintenance Priority Source Card for Property Managers](articles/maintenance-priority-source-card-property-managers.html) — copy/paste maintenance-priority source fields, resident-safe acknowledgements, severity checks, access notes, CRM labels, and STOP AUTOMATION guardrails before property managers or AI tools classify resident maintenance requests as emergency, urgent, routine, duplicate, or owner-review.
 - [AI Workflow Test Case Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-workflow-test-case-checklist-small-business.html) — copy/paste AI workflow test cases, expected outputs, edge-case failures, owner review prompts, and STOP AUTOMATION guardrails before rollout.
 - [AI Search Service Area and Travel Fee Checklist for Local Service Businesses](articles/ai-search-service-area-travel-fee-checklist-local-service.html) — service-area and travel-fee source-card worksheet for local-service AI search accuracy.

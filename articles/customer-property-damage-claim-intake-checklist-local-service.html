@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Customer Property-Damage Claim Intake Checklist for Local Service Businesses</title>
+  <meta name="description" content="Copy/paste customer property-damage claim intake fields, photo/source proof, insurance-sensitive routing, customer-safe replies, CRM labels, and STOP AUTOMATION guardrails for local service businesses.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-property-damage-claim-intake-checklist-local-service.html">
+  <meta property="og:title" content="Customer Property-Damage Claim Intake Checklist for Local Service Businesses">
+  <meta property="og:description" content="A practical worksheet for customer damage claims, reimbursement requests, photo evidence, insurance-sensitive escalation, and safe follow-up.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/customer-property-damage-claim-intake-checklist-local-service.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <main class="article">
+    <p class="eyebrow">Local Lead Rescue System • damage-claim intake • customer-service guardrails</p>
+    <h1>Customer Property-Damage Claim Intake Checklist for Local Service Businesses</h1>
+    <p class="lede"><strong>CUSTOMER-PROPERTY-DAMAGE-CLAIM-INTAKE-READY</strong> — Use this worksheet before AI, dispatch, office staff, or technicians respond to a customer who says a visit, repair, delivery, install, cleanup, or subcontractor action caused damage.</p>
+    <p>Damage complaints are high-risk follow-up moments: a rushed text can accidentally admit fault, promise reimbursement, contradict insurance requirements, or make a customer feel ignored. This checklist gives local-service teams a safer intake card, neutral replies, owner-review prompts, and CRM labels so the business can preserve facts and respond quickly without inventing liability, coverage, pricing, or timing.</p>
+
+    <section class="card">
+      <h2>1) Damage-claim source card</h2>
+      <ul>
+        <li><strong>Customer / job:</strong> {customer_name}, {job_address}, {job_id}, {visit_date}, {technician_or_subcontractor}</li>
+        <li><strong>Claimed damage:</strong> {what_customer_says_was_damaged}, {room_or_area}, {first_reported_at}</li>
+        <li><strong>Business activity nearby:</strong> estimate / diagnostic / repair / install / delivery / cleanup / callback / subcontractor visit</li>
+        <li><strong>Evidence received:</strong> photos / video / invoice / text / phone note / technician photo / pre-existing condition record / none yet</li>
+        <li><strong>Immediate risk class:</strong> cosmetic / property-damage / water-electrical-safety / injury / insurance-sensitive / legal-sensitive / owner review required</li>
+        <li><strong>Open facts:</strong> {unknown_timeline}, {missing_photos}, {who_needs_to_review}, {insurance_or_manager_contact}</li>
+        <li><strong>Next owner:</strong> {manager_or_owner}, {target_response_time}, {allowed_customer_channel}</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>2) Customer-safe acknowledgement snippets</h2>
+      <p><strong>Fast acknowledgement:</strong> “Hi {first_name}, thank you for flagging this. We are opening a review for {job_or_visit} and want to preserve the facts before we promise a next step. Please send any photos, the location of the issue, and when you first noticed it.”</p>
+      <p><strong>Photo request:</strong> “Could you send 2–3 clear photos from different distances, plus any close-up details? We will add them to the job record for owner/manager review.”</p>
+      <p><strong>No fault promise:</strong> “I do not want to make assumptions by text. We are checking the job notes, photos, and team records first, then a manager will follow up with the next appropriate step.”</p>
+      <p><strong>Safety-sensitive:</strong> “If there is active water, electrical risk, gas odor, injury, or another immediate safety concern, please stop using the affected area and call the appropriate emergency/professional help. We will escalate this internally right away.”</p>
+    </section>
+
+    <section class="card warning">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li>Stop if the claim involves injury, active leak, electrical/gas/safety risk, insurance, legal threat, chargeback, public review escalation, or a subcontractor/vendor dispute.</li>
+        <li>Do not admit fault, deny fault, promise reimbursement, offer discounts, waive fees, blame a technician, or quote insurance/legal outcomes without owner/manager approval.</li>
+        <li>Do not invent diagnosis, timeline, cause, prior condition, warranty coverage, insurance coverage, repair cost, repair window, or settlement terms.</li>
+        <li>Do not ask the customer to sign anything, delete a review, stop a chargeback, or accept a credit without a human-approved process.</li>
+        <li>Keep every customer-facing message factual, calm, source-backed, and easy to audit later.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>3) AI prompt for safe damage-claim triage</h2>
+      <pre>Draft one short acknowledgement for a local-service customer who reported possible property damage.
+Use only the facts below. Do not admit fault, deny fault, promise reimbursement, blame staff, quote insurance/legal outcomes, invent cause, or promise repair timing.
+If the risk class includes injury, active safety risk, insurance-sensitive, legal-sensitive, chargeback, public-review escalation, or unclear cause, return "NEEDS OWNER REVIEW" and list the missing fields instead of writing a customer message.
+Facts:
+- Customer / job: {customer_name}, {job_id}, {job_address}
+- Visit/activity: {visit_activity}
+- Claimed damage: {claimed_damage}
+- Evidence received: {evidence_received}
+- Risk class: {risk_class}
+- Allowed channel: {allowed_channel}
+- Human owner: {owner_name}
+- Next approved step: {approved_next_step}</pre>
+    </section>
+
+    <section class="card">
+      <h2>4) CRM labels and follow-up states</h2>
+      <ul>
+        <li><code>damage_claim_intake_open</code></li>
+        <li><code>photos_requested_customer_damage_claim</code></li>
+        <li><code>manager_review_required_damage_claim</code></li>
+        <li><code>insurance_sensitive_do_not_autorespond</code></li>
+        <li><code>technician_notes_needed</code></li>
+        <li><code>subcontractor_vendor_review_needed</code></li>
+        <li><code>customer_update_due_damage_claim</code></li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Use it with Horizon Flow</h2>
+      <p>This checklist is a free resource from Horizon Flow. For a fuller local-service follow-up system, see <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=customer_property_damage_claim_intake">Local Lead Rescue System</a> or start with the <a href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=customer_property_damage_claim_intake">free missed-lead recovery checklist</a>.</p>
+    </section>
+  </main>
+</body>
+</html>

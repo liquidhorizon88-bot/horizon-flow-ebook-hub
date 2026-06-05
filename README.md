@@ -5,6 +5,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Resident Unauthorized Fee and Charge Dispute Checklist for Property Managers](articles/resident-unauthorized-fee-charge-dispute-checklist-property-managers.html) — resident charge-dispute source card with STOP AUTOMATION guardrails.
 
 - [AI Search Exchange Eligibility and Option Checklist for Small Businesses](articles/ai-search-exchange-eligibility-option-checklist-small-business.html) — copy/paste exchange-eligibility source cards, customer-safe option wording, approved evidence fields, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent exchange, refund, store-credit, repair, replacement, fee, or exception outcomes.
 - [AI Search Return Inspection Hold Checklist for Small Businesses](articles/ai-search-return-inspection-hold-checklist-small-business.html) — copy/paste return-inspection hold source cards, condition proof fields, customer-safe wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent refund eligibility, timing, damage, restocking fees, or exception outcomes.

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rental Application Identity Verification and Fraud-Flag Checklist for Property Managers</title>
+  <meta name="description" content="Copy/paste rental application identity-verification, fraud-flag, document-source, applicant-safe acknowledgement, fair-housing/legal review, CRM-label, and STOP AUTOMATION guardrails for property managers.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/rental-application-identity-verification-fraud-flag-checklist-property-managers.html">
+  <meta property="og:title" content="Rental Application Identity Verification and Fraud-Flag Checklist for Property Managers">
+  <meta property="og:description" content="A practical source-card worksheet for applicant identity questions, suspicious-document flags, fair-housing-sensitive routing, and safe replies.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/rental-application-identity-verification-fraud-flag-checklist-property-managers.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <main class="article">
+    <p class="eyebrow">Local Lead Rescue System • property management • applicant identity source card</p>
+    <h1>Rental Application Identity Verification and Fraud-Flag Checklist for Property Managers</h1>
+    <p class="lede"><strong>RENTAL-APPLICATION-IDENTITY-FRAUD-FLAG-READY</strong> — Use this worksheet before a leasing team, assistant, or AI tool answers questions about applicant identity verification, document mismatches, fraud flags, or application hold status.</p>
+    <p>Identity verification is sensitive because the wrong reply can expose private data, imply a denial reason, create inconsistent screening treatment, or promise that an applicant is cleared before the approved screening workflow is done. This checklist gives property managers a safe source card, applicant-safe snippets, and stop rules that keep the decision with a human reviewer.</p>
+
+    <section class="card">
+      <h2>1) Identity-verification source card</h2>
+      <ul>
+        <li><strong>Applicant / application:</strong> {applicant_name}, {application_id}, {property_or_unit}, {received_date}</li>
+        <li><strong>Verification source:</strong> portal ID check / screening provider / uploaded document / in-person review / third-party fraud tool / manager note</li>
+        <li><strong>Document type received:</strong> ID, pay stub, bank statement, employment letter, rental history, guarantor form, other approved source</li>
+        <li><strong>Mismatch or flag:</strong> name mismatch, address mismatch, expiration, unreadable upload, duplicate record, altered-looking document, missing required field, provider needs review</li>
+        <li><strong>What can be disclosed:</strong> approved generic status wording only; do not expose internal fraud scoring, third-party flags, or private reviewer notes</li>
+        <li><strong>Next human owner:</strong> {leasing_manager_or_compliance_owner}, {review_deadline}, {approved_contact_channel}</li>
+      </ul>
+    </section>
+
+    <section class="card warning">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li>Stop if the message could reveal fraud scoring, identity-document details, screening criteria, denial reasons, protected-class information, or third-party investigative notes.</li>
+        <li>Do not invent approval, denial, conditional approval, verification status, timeline, required documents, fees, exceptions, or next steps.</li>
+        <li>Do not treat a fraud flag as a final decision. Route to the approved screening/legal/compliance workflow.</li>
+        <li>Use consistent, policy-approved wording for every applicant with the same status; avoid ad hoc explanations.</li>
+        <li>Escalate before referencing adverse action, application denial, conditional approval, or suspected fraud.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>2) Applicant-safe acknowledgement snippets</h2>
+      <p><strong>Upload issue:</strong> “Thanks for the update. We received your message about the application documents. Our team will review the submitted file through the normal application process and contact you if an approved next step is needed.”</p>
+      <p><strong>Generic verification hold:</strong> “Your application is still under review. We cannot confirm a final status by text, but the leasing team will use the official application record and approved screening process for any next step.”</p>
+      <p><strong>Document resubmission, if approved:</strong> “If you were asked to resubmit a document, please use the official application portal or the approved secure link. Do not send sensitive documents by ordinary text unless the leasing team has specifically approved that channel.”</p>
+      <p><strong>Manager review:</strong> “This needs leasing-manager review before we can answer. We will respond through the official application channel when the review is complete.”</p>
+    </section>
+
+    <section class="card">
+      <h2>3) AI prompt for internal triage only</h2>
+      <pre>Review this rental application identity-verification question for safe routing.
+Use only the facts below. Do not decide approval, denial, fraud status, adverse action, eligibility, or required documents.
+If the issue involves identity mismatch, suspected fraud, protected-class information, screening criteria, denial reasons, or private documents, return "NEEDS MANAGER REVIEW" and list the missing source fields.
+Facts:
+- Applicant/application ID: {applicant_or_application_id}
+- Property/unit: {property_or_unit}
+- Applicant question: {question}
+- Source record available: {portal_or_screening_provider_record}
+- Flag/mismatch category: {flag_category_if_any}
+- Approved public status wording: {approved_status_wording}
+- Human reviewer: {reviewer}</pre>
+    </section>
+
+    <section class="card">
+      <h2>4) CRM labels and review fields</h2>
+      <ul>
+        <li><code>application_identity_review_needed</code></li>
+        <li><code>document_upload_unreadable_or_missing</code></li>
+        <li><code>screening_provider_review_pending</code></li>
+        <li><code>fraud_flag_manager_review</code></li>
+        <li><code>do_not_disclose_internal_screening_notes</code></li>
+        <li><code>adverse_action_language_hold</code></li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Use it with Horizon Flow</h2>
+      <p>This checklist is a free resource from Horizon Flow. For a fuller resident, applicant, and lead-response workflow system, see <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=rental_application_identity_fraud_flag">Local Lead Rescue System</a> or start with the <a href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=rental_application_identity_fraud_flag">free missed-lead recovery checklist</a>.</p>
+    </section>
+  </main>
+</body>
+</html>

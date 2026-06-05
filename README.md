@@ -1,3 +1,4 @@
+- [Rental Income Document Upload Checklist for Property Managers](articles/rental-income-document-upload-checklist-property-managers.html) — Copy/paste income-document upload, pay-stub/source, applicant-safe acknowledgement, screening/fair-housing review, CRM-label, and STOP AUTOMATION guardrails before property managers answer applicant income verification questions.
 # Horizon Flow Ebook Hub
 
 Practical free resources and buyer links for Andrew Burton's Horizon Flow digital playbooks.

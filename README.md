@@ -5,6 +5,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Lease Signature and Document Upload Checklist for Property Managers](articles/lease-signature-document-upload-checklist-property-managers.html) — copy/paste lease-signature, document-upload, renter-insurance, ID, payment, and portal-proof fields with resident-safe replies and STOP AUTOMATION guardrails before property managers answer move-in paperwork questions.
 - [Resident Contact Preference and Opt-Out Checklist for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-contact-preference-opt-out-checklist-property-managers.html) — contact-preference and opt-out source card for resident-safe AI-assisted property-management replies.
 - [Resident Maintenance Entry Permission Checklist for Property Managers](articles/resident-maintenance-entry-permission-checklist-property-managers.html) — copy/paste entry-permission source fields, access-window checks, resident-safe confirmations, vendor handoff notes, CRM labels, and STOP AUTOMATION guardrails before property managers or AI tools confirm maintenance entry.
 - [AI Search Deposit Refund Timeline Checklist for Small Businesses](articles/ai-search-deposit-refund-timeline-checklist-small-business.html) — deposit-refund timeline source-card worksheet for AI-search accuracy.

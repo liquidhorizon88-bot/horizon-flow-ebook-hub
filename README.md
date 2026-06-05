@@ -5,6 +5,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Resident Partial Payment Posting Checklist for Property Managers](articles/resident-partial-payment-posting-checklist-property-managers.html) — Copy/paste partial-payment posting, split-payment, ledger/source, resident-safe receipt, accounting review, CRM-label, and STOP AUTOMATION guardrails before property managers or AI tools answer partial rent payment questions.
 - [Resident Unauthorized Fee and Charge Dispute Checklist for Property Managers](articles/resident-unauthorized-fee-charge-dispute-checklist-property-managers.html) — resident charge-dispute source card with STOP AUTOMATION guardrails.
 
 - [AI Search Exchange Eligibility and Option Checklist for Small Businesses](articles/ai-search-exchange-eligibility-option-checklist-small-business.html) — copy/paste exchange-eligibility source cards, customer-safe option wording, approved evidence fields, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent exchange, refund, store-credit, repair, replacement, fee, or exception outcomes.

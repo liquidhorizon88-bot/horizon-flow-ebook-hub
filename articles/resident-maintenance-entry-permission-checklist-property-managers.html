@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resident Maintenance Entry Permission Checklist for Property Managers</title>
+  <meta name="description" content="A copy/paste entry-permission source card for property managers before staff, vendors, or AI-assisted workflows confirm unit entry for maintenance work.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-maintenance-entry-permission-checklist-property-managers.html">
+  <meta property="og:title" content="Resident Maintenance Entry Permission Checklist for Property Managers">
+  <meta property="og:description" content="Verify entry permission, notice source, access window, resident limits, vendor scope, pets, locks, and STOP AUTOMATION triggers before maintenance entry is confirmed.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-maintenance-entry-permission-checklist-property-managers.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero compact">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../free/missed-lead-checklist.html">Free lead checklist</a><a href="../resources/which-horizon-flow-ebook.html">Choose an ebook</a></nav>
+    <section>
+      <p class="eyebrow">Property management • maintenance access • resident permission</p>
+      <h1>Resident Maintenance Entry Permission Checklist for Property Managers</h1>
+      <p class="lede">Use this worksheet before a maintenance coordinator, leasing assistant, vendor, resident portal workflow, or AI receptionist says a team can enter a unit. It keeps resident updates useful without inventing entry rights, notice status, access windows, lockbox details, pet constraints, emergency authority, or completion promises.</p>
+      <p><strong>RESIDENT-MAINTENANCE-ENTRY-PERMISSION-READY</strong></p>
+    </section>
+  </header>
+  <main class="content">
+    <section class="card">
+      <h2>When to use this</h2>
+      <p>Use this source card when a resident asks whether maintenance can enter, a vendor needs access instructions, a work order includes “permission to enter,” a resident limits entry to certain times, a pet or alarm note changes access, or an AI-assisted workflow is about to confirm an entry plan from incomplete notes.</p>
+      <p><strong>Human-review rule:</strong> entry permission is not a generic maintenance status. A manager should verify the source record, notice requirements, work-order scope, resident restrictions, emergency/habitability exceptions, pet/access hazards, vendor authorization, and local policy before confirming entry or scheduling around it.</p>
+    </section>
+
+    <section class="card">
+      <h2>Copy/paste entry-permission source card</h2>
+      <table>
+        <thead><tr><th>Field</th><th>What to verify</th><th>Example / options</th></tr></thead>
+        <tbody>
+          <tr><td>Resident and unit</td><td>Resident name, unit, account/lease ID, work-order ID, and whether the requester is authorized to set entry instructions.</td><td>[Resident], [Unit], [WO/CRM ID]</td></tr>
+          <tr><td>Permission source</td><td>Portal checkbox, signed notice, email from address on file, phone callback note, lease-approved standing permission, emergency policy, or manager-entered note.</td><td>Portal checkbox dated [date]</td></tr>
+          <tr><td>Scope of work</td><td>Exact issue, room/area, vendor/staff type, and whether entry permission applies only to that work order.</td><td>Kitchen sink leak inspection only</td></tr>
+          <tr><td>Access window</td><td>Approved date/time range, notice period, blackout times, resident-present requirement, vendor arrival window, and whether rescheduling is needed.</td><td>Tuesday 10 AM–2 PM; resident not required</td></tr>
+          <tr><td>Entry method</td><td>Key, lockbox, smart lock, gate code, concierge, resident unlock, office key, or no verified method yet.</td><td>Office key; no gate code on file</td></tr>
+          <tr><td>Resident limits</td><td>Pets, alarm, child/elderly resident, bedroom/privacy restriction, photos allowed/not allowed, shoe covers, language/accessibility note, or third-party present.</td><td>Dog crated in bedroom; do not enter bedroom</td></tr>
+          <tr><td>Exception / emergency route</td><td>Whether urgent/habitability/safety access rules apply and who approved that classification.</td><td>Not emergency; manager review needed for any exception</td></tr>
+          <tr><td>CRM labels</td><td>Labels future staff or AI tools must see before replying.</td><td>entry_permission_verified, resident_present_required, manager_review_required</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <h2>Resident-safe reply snippets</h2>
+      <ul>
+        <li><strong>Permission received:</strong> “Thanks — we received your entry-permission note for this maintenance request. Our team will verify the work-order scope, access window, and entry method before confirming the visit.”</li>
+        <li><strong>Need source proof:</strong> “To protect your home and account, please submit entry permission through [approved channel] or contact the office so we can verify the record before scheduling access.”</li>
+        <li><strong>Resident-present required:</strong> “We noted that you prefer to be present. We will route this for scheduling review instead of confirming entry automatically.”</li>
+        <li><strong>Vendor handoff:</strong> “We can share only the verified access notes needed for this work order. Any change to scope, timing, photos, pets, or room access needs manager review first.”</li>
+      </ul>
+    </section>
+
+    <section class="card warning">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li>STOP AUTOMATION if entry permission is missing, stale, ambiguous, tied to a different work order, or contradicted by a newer resident message.</li>
+        <li>STOP AUTOMATION if AI is about to infer permission from “maintenance request submitted,” “key on file,” “vendor assigned,” or “resident has not replied.”</li>
+        <li>STOP AUTOMATION if pets, alarms, locks, minors, accessibility/accommodation, privacy-sensitive rooms, domestic conflict, law enforcement, or emergency/habitability issues are mentioned.</li>
+        <li>STOP AUTOMATION if the reply promises legal notice status, emergency authority, completion timing, diagnosis, fees, vendor arrival, or resident responsibility without manager verification.</li>
+        <li>STOP AUTOMATION if a vendor, owner, roommate, caregiver, or emergency contact requests entry instructions outside the verified permission scope.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>AI prompt for internal review</h2>
+      <pre><code>You are helping a property-management team review resident maintenance entry permission before a reply or vendor handoff is sent.
+Use only the verified fields below. Do not invent permission to enter, notice status, emergency authority, lease terms, legal rights, vendor availability, arrival time, diagnosis, fees, pet status, lockbox details, or completion promises.
+
+Resident/unit: [paste]
+Work-order ID and issue: [paste]
+Permission source/proof: [paste]
+Access window: [paste]
+Entry method: [paste]
+Resident limits/pets/privacy: [paste]
+Emergency/exception status: [paste]
+Vendor/staff scope: [paste]
+CRM labels/history: [paste]
+
+Return:
+1. Safe one-sentence resident acknowledgement.
+2. Missing source or access checks.
+3. Whether entry can be confirmed, needs scheduling review, or must stop.
+4. Vendor-safe handoff notes.
+5. STOP AUTOMATION triggers and manager/legal/privacy review notes.</code></pre>
+    </section>
+
+    <section class="card cta">
+      <h2>Use this inside a larger lead and resident-response system</h2>
+      <p>This checklist is a free companion resource from Horizon Flow. The paid <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=resident_entry_permission&utm_content=resident-entry-permission-paid-cta" rel="nofollow sponsored">Local Lead Rescue System</a> expands this source-card workflow into missed-call, resident-message, maintenance, quote follow-up, and CRM handoff templates with human-review guardrails.</p>
+      <p>Start with the <a href="../free/missed-lead-checklist.html?utm_source=github_pages&utm_medium=free&utm_campaign=resident_entry_permission&utm_content=resident-entry-permission-free-checklist">free missed-lead checklist</a> or browse the <a href="../index.html?utm_source=github_pages&utm_medium=free&utm_campaign=resident_entry_permission&utm_content=resident-entry-permission-hub">Horizon Flow resource hub</a>.</p>
+    </section>
+  </main>
+</body>
+</html>

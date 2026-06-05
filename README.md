@@ -8,6 +8,7 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+- [Resident Portal Password Reset Checklist for Property Managers](articles/resident-portal-password-reset-checklist-property-managers.html) — copy/paste resident portal password-reset and login-help fields, identity-safe reply templates, official-channel checks, CRM labels, and STOP AUTOMATION guardrails before property managers answer portal access questions.
 - [AI Search Price Increase Notice Checklist for Small Businesses](articles/ai-search-price-increase-notice-checklist-small-business.html) — copy/paste price-increase notice source cards, effective-date proof fields, customer-safe wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent pricing changes, grandfathering, exceptions, or discount promises.
 - [AI Search Subscription Pause and Account Hold Checklist for Small Businesses](articles/ai-search-subscription-pause-account-hold-checklist-small-business.html) — subscription-pause and account-hold source-card worksheet for AI-search accuracy.
 - [AI Search Admin and Billing Contact Checklist for Small Businesses](articles/ai-search-admin-billing-contact-checklist-small-business.html) — copy/paste admin-owner, billing-contact, account-access, renewal-owner, escalation-path, and source-proof fields with STOP PUBLISHING guardrails before AI tools invent who can approve billing, access, account changes, or support escalations.

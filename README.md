@@ -409,3 +409,5 @@ Latest marketing surface checks validate live URLs, sitemap entries, UTM links, 
 - [AI Search Answer Correction Request Checklist for Small Businesses](articles/ai-search-answer-correction-request-checklist-small-business.html) — source-proof correction request worksheet for wrong AI-search answers.
 
 - [AI Lead Scoring Review Checklist for Small Businesses](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/ai-lead-scoring-review-checklist-small-business.html) — copy/paste lead-score review fields, source-proof checks, sales-safe next-step prompts, owner review labels, and STOP AUTOMATION guardrails before AI ranks, routes, or deprioritizes leads.
+- [Resident No-Response Maintenance Access Checklist for Property Managers](https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/resident-no-response-maintenance-access-checklist-property-managers.html) — Copy/paste no-response maintenance access fields, resident-safe follow-ups, access-window escalation labels, vendor handoff notes, and STOP AUTOMATION guardrails before property managers coordinate entry after a resident goes quiet.
+

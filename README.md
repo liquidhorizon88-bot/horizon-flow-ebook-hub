@@ -1,3 +1,4 @@
+- [Rental Application Adverse Action Source Checklist for Property Managers](articles/rental-application-adverse-action-source-checklist-property-managers.html) — Copy/paste adverse-action source fields, applicant-safe acknowledgement text, screening/legal review prompts, CRM labels, and STOP AUTOMATION guardrails before property managers answer rental application denial or conditional-approval questions.
 - [Rental Income Document Upload Checklist for Property Managers](articles/rental-income-document-upload-checklist-property-managers.html) — Copy/paste income-document upload, pay-stub/source, applicant-safe acknowledgement, screening/fair-housing review, CRM-label, and STOP AUTOMATION guardrails before property managers answer applicant income verification questions.
 # Horizon Flow Ebook Hub
 

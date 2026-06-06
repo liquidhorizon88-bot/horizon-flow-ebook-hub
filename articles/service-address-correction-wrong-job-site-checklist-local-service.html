@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Service Address Correction and Wrong-Job-Site Checklist for Local Service Businesses | Horizon Flow</title>
+  <meta name="description" content="A copy/paste service-address correction checklist for local-service dispatch teams that need to fix wrong job sites, duplicate locations, billing addresses, and arrival promises before a tech is sent.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/service-address-correction-wrong-job-site-checklist-local-service.html">
+  <meta property="og:title" content="Service Address Correction and Wrong-Job-Site Checklist for Local Service Businesses">
+  <meta property="og:description" content="Copy/paste wrong-job-site fields, safe customer snippets, CRM labels, and STOP AUTOMATION guardrails for local-service dispatch teams.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/articles/service-address-correction-wrong-job-site-checklist-local-service.html">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav><strong>Horizon Flow</strong><a href="../index.html">Catalog</a><a href="../free/missed-lead-checklist.html">Free lead checklist</a><a href="../resources/local-service-lead-response-resource-library.html">Local-service library</a></nav>
+    <section>
+      <p class="eyebrow">Local service dispatch • address correction • AI-safe replies</p>
+      <h1>Service Address Correction and Wrong-Job-Site Checklist for Local Service Businesses</h1>
+      <p class="lede">Use this source card when a caller gives a different service address than the CRM record, the billing address is not the job site, a property has multiple units or gates, or a technician may be headed to the wrong location. The goal is to keep speed-to-lead high without sending a crew to the wrong place or inventing arrival, fee, warranty, or access promises.</p>
+      <p><a class="button primary" href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=service_address_correction">Get the full Local Lead Rescue System</a> <a class="button" href="https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=service_address_correction">Browse free Horizon Flow checklists</a></p>
+    </section>
+  </header>
+  <main>
+    <section class="card">
+      <h2>When to use this</h2>
+      <ul>
+        <li>A lead, tenant, customer, or property manager gives a corrected service address after the initial intake.</li>
+        <li>The CRM has a billing address, mailing address, unit number, gate code, subdivision, or site name that may not match the job site.</li>
+        <li>A dispatcher, answering service, AI assistant, or front desk needs safe wording before confirming travel time, fees, warranty status, or arrival windows.</li>
+        <li>You need a CRM note that separates address correction from duplicate lead merge, wrong-number cleanup, cancellation, or quote follow-up.</li>
+      </ul>
+    </section>
+    <section class="card">
+      <h2>Copy/paste source card</h2>
+      <pre><code>SERVICE ADDRESS CORRECTION SOURCE CARD
+Customer / requester name:
+Phone/email/contact channel:
+Original lead / ticket / job ID:
+Original service address in CRM:
+Corrected service address:
+Unit / suite / building / lot / gate / access details:
+Billing or mailing address if different:
+Property manager / owner / tenant / resident contact:
+Who supplied the correction:
+Timestamp of correction:
+Customer words used:
+Map/dispatch system updated? Y/N/Unknown
+Technician already assigned or en route? Y/N/Unknown
+Arrival window already promised? Y/N/Unknown
+Trip/diagnostic fee already quoted? Y/N/Unknown
+Service-area / travel-fee source checked? Y/N/Unknown
+Warranty, estimate, or prior job tied to old address? Y/N/Unknown
+Duplicate lead/customer record suspected? Y/N/Unknown
+Access or safety concern mentioned? Y/N/Unknown
+Customer-safe acknowledgement sent:
+CRM label: address_correction / wrong_job_site_risk / duplicate_record_review / dispatch_update_needed / service_area_review / access_review / fee_review / owner_review
+Next human review step:
+</code></pre>
+    </section>
+    <section class="card warning">
+      <h2>STOP AUTOMATION guardrails</h2>
+      <ul>
+        <li>STOP AUTOMATION before promising arrival time, dispatch priority, same-day service, emergency status, or fee waivers after an address changes.</li>
+        <li>STOP AUTOMATION if a technician is already en route, the job may now be outside the service area, or the corrected address changes travel/diagnostic fees.</li>
+        <li>STOP AUTOMATION if the corrected address appears tied to a different customer, property, tenant, unit, owner, or duplicate CRM record.</li>
+        <li>STOP AUTOMATION if warranty, quote, permit, safety, lockbox, gate-code, tenant-access, or property-management authorization is tied to the old address.</li>
+        <li>STOP AUTOMATION before admitting fault, blaming the customer, charging a missed-trip fee, or promising compensation for a wrong-site visit.</li>
+      </ul>
+    </section>
+    <section class="card">
+      <h2>Customer-safe acknowledgement snippets</h2>
+      <h3>Address correction received</h3>
+      <p>“Thanks — we received the corrected service address. We’re updating the job record and will verify dispatch details before confirming timing or fees.”</p>
+      <h3>Technician may already be assigned</h3>
+      <p>“Thanks for the update. Because this changes the service location, a person needs to review the dispatch record before we confirm the next arrival window.”</p>
+      <h3>Possible duplicate or property-management record</h3>
+      <p>“Thanks — we need to compare this with the existing customer/property record so we do not merge the wrong account or send updates to the wrong person.”</p>
+      <h3>Service-area or access review needed</h3>
+      <p>“We have the corrected address. Before we confirm scheduling, we need to verify service area, access details, and any travel or diagnostic-fee rules.”</p>
+    </section>
+    <section class="card">
+      <h2>AI review prompt</h2>
+      <pre><code>You are reviewing a local-service address correction or wrong-job-site risk. Use only the source card below. Draft a short acknowledgement that confirms receipt without promising arrival time, dispatch priority, fee changes, warranty coverage, service-area coverage, compensation, or account merge decisions. If any STOP AUTOMATION rule is triggered, output: NEEDS OWNER REVIEW and list the missing or risky fields.
+
+Source card:
+[PASTE SOURCE CARD]
+</code></pre>
+    </section>
+    <section class="card">
+      <h2>CRM labels and next actions</h2>
+      <ul>
+        <li><strong>address_correction:</strong> corrected address captured; dispatch map and job record need verification.</li>
+        <li><strong>wrong_job_site_risk:</strong> technician, access, travel, or fee promise may be affected.</li>
+        <li><strong>duplicate_record_review:</strong> compare phone/email/address before merging or sending customer updates.</li>
+        <li><strong>service_area_review:</strong> owner/dispatcher checks travel zone, trip fee, and availability before promising service.</li>
+        <li><strong>access_review:</strong> unit, gate, lockbox, tenant permission, or property-manager authorization is incomplete.</li>
+      </ul>
+      <p>This free checklist pairs with <a href="https://horizonflow.gumroad.com/l/local-lead-rescue-system?utm_source=github_pages&utm_medium=free&utm_campaign=ebook_marketing&utm_content=service_address_correction">Local Lead Rescue System</a>, which includes missed-lead recovery scripts, CRM labels, callback cadences, and human-review rules for small local-service teams.</p>
+    </section>
+  </main>
+</body>
+</html>

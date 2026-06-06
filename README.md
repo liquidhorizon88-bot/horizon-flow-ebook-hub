@@ -39,6 +39,8 @@ Practical free resources and buyer links for Andrew Burton's Horizon Flow digita
 Live hub: https://liquidhorizon88-bot.github.io/horizon-flow-ebook-hub/
 
 ## Free resources
+
+- [HVAC Filter Replacement Reminder Checklist for Property Managers](articles/hvac-filter-replacement-reminder-checklist-property-managers.html) — Copy/paste HVAC filter replacement reminder, access, resident-safe notice, vendor/source, CRM-label, and STOP AUTOMATION guardrails before property managers answer filter, air-flow, preventive-maintenance, or resident responsibility questions.
 - [AI Search Order Cancellation and Address Change Checklist for Small Businesses](articles/ai-search-order-cancellation-address-change-checklist-small-business.html) — Copy/paste order-cancellation and address-change source cards, customer-safe wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent cancellation, shipping, refund, address, carrier, or fulfillment promises.
 - [AI Search Account Security Incident Checklist for Small Businesses](articles/ai-search-account-security-incident-checklist-small-business.html) — Copy/paste account-security incident source cards, customer-safe wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent breach, access, refund, identity, or remediation claims.
 - [AI Search Return Authorization and RMA Checklist for Small Businesses](articles/ai-search-return-authorization-rma-checklist-small-business.html) — Copy/paste return authorization, RMA, label, condition, timing, customer-safe wording, AI audit prompts, and STOP PUBLISHING guardrails before AI tools invent return approval, label, refund, inspection, or exception outcomes.
